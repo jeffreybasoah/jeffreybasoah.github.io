@@ -8,7 +8,7 @@ date: "2025-10-18"
 venue: "[Under Review] The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
-citation: "Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D.** *Understanding Black Users' Perceptions of AI-Supported Writing Technology. Under review for the 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25)."
+citation: "Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D. Understanding Black Users' Perceptions of AI-Supported Writing Technology. Under review for the 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25)."
 ---
 
 AI-supported writing technologies (AISWT) that provide grammatical suggestions, autocomplete sentences, or generate and rewrite
