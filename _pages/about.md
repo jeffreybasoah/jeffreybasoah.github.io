@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Human-Centered Design and Engineering at the University of Washington, specializing in Human-Computer Interaction with a focus on AI/ML fairness. I am a member of the [Tactile and Tactical (TAT) Design Lab](https://tat-lab.github.io/), under the guidance of [Dr. Daniela Rosner](https://www.hcde.washington.edu/rosner), and the [Wildlab](https://wildlab.cs.washington.edu/), where I am also advised by Dr. Katharina Reinecke. My work across these labs focuses on exploring design, technology, and social impact through interdisciplinary research.
+I am a third-year Ph.D. student in Human-Centered Design and Engineering at the University of Washington, specializing in Human-Computer Interaction with a focus on AI/ML fairness. I am a member of the [Tactile and Tactical (TAT) Design Lab](https://tat-lab.github.io/), under the guidance of [Dr. Daniela Rosner](https://www.hcde.washington.edu/rosner), and the [Wildlab](https://wildlab.cs.washington.edu/), where I am also advised by [Dr. Katharina Reinecke](https://www.cs.washington.edu/people/faculty/reinecke). My work across these labs focuses on exploring design, technology, and social impact through interdisciplinary research.
 
 
 I am deeply invested in promoting responsible AI/ML systems that prioritize **fairness**, **inclusivity**, and **equity**. My research investigates the sociotechnical implications of **race**, **culture**, **identity**, and **power**, especially in how **intelligent systems** and **automated language technologies** interact with underrepresented communities. Leveraging **inclusive design** and **justice-driven frameworks**, I aim to enhance user experiences with a particular emphasis on **Black American communities**.
 
 In addition to my academic pursuits, I serve as a board member of [**Acquiring Knowledge for Transcendence**](https://www.aktcommunity.org/) and design team lead at [**A Vision for Engineering Literacy and Access**](http://students.washington.edu/avelauw/index.html), both nonprofit organizations dedicated to supporting underrepresented youth in education. My career goal is to establish a research lab that addresses **social disparities in tech design**, ultimately contributing to **data-driven solutions** that mitigate **racial biases** and amplify **diverse voices** within intelligent systems.
 
-[Resume](http://jeffreybasoah.github.io/files/BasoahJeffreyResume.pdf) [CV](http://jeffreybasoah.github.io/files/BasoahJeffreyCV.pdf)
+([Resume](http://jeffreybasoah.github.io/files/BasoahJeffreyResume.pdf)) ([CV](http://jeffreybasoah.github.io/files/BasoahJeffreyCV.pdf))
 
 Ongoing Research Projects
 ======
