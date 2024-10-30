@@ -17,7 +17,7 @@ date: In Review
 venue: 'The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW'25)'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., Rosner, D.. “Understanding Black Users Perceptions of AI-Supported Writing Technology”. Currently Under Review: The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW ’25)'
+citation: 'Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., Rosner, D.. “Understanding Black Users Perceptions of AI-Supported Writing Technology." Currently Under Review: The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW ’25)'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
