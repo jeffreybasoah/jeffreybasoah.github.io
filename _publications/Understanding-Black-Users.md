@@ -13,7 +13,7 @@ to recognize commonly used names and expressions in African American Vernacular 
 and alienating and fearing it might further minoritize their culture. We end with a reflection on the tension between AISWT that fail
 to include Black American culture and language, and AISWT that attempt to mimic it, with attention to accuracy, authenticity, and the
 production of social difference.'
-date: #'In Review'
+date: '2025-10-18'
 venue: 'The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW'25)'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
