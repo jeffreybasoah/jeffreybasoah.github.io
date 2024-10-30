@@ -24,9 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jeffrey Basoah"
   pronouns         : "he/him"  
-  bio              : "I am a third-year Ph.D. student in Human-Centered Design & Engineering at the University of Washington, specializing in Human-Computer Interaction and AI/ML fairness. As a member of the Tactile and Tactical Design Lab and Wildlab, I focus on the intersections of design, technology, and social impact. My research addresses fairness, inclusivity, and equity in AI, particularly in how intelligent systems engage with underrepresented communities, with an emphasis on Black American communities.
-
-Outside academia, I am a board member of Acquiring Knowledge for Transcendence and lead the design team at A Vision for Engineering Literacy and Access, nonprofits committed to supporting underrepresented youth in education."
+  bio              : "I am a third-year Ph.D. student in Human-Centered Design & Engineering at the University of Washington, specializing in Human-Computer Interaction and AI/ML fairness. In the Tactile and Tactical Design Lab and Wildlab, I research fairness and inclusivity in AI, focusing on how intelligent systems interact with underrepresented communities, especially Black Americans."
   location         : "Seattle, Washington"
   employer         : "University of Washington"
   uri              : # URL
