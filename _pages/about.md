@@ -16,7 +16,6 @@ In addition to my academic pursuits, I serve as a board member of [Acquiring Kno
 
 ([Resume](http://jeffreybasoah.github.io/files/BasoahJeffreyResume.pdf)) ([CV](http://jeffreybasoah.github.io/files/BasoahJeffreyCV.pdf))
 
-
 Ongoing Research Projects
 ======
 
