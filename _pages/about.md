@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Human-Centered Design and Engineering at the University of Washington, specializing in **Human-Computer Interaction** with a focus on **AI/ML fairness**. I am a member of the [Tactile and Tactical (TAT) Design Lab](https://tat-lab.github.io/), under the guidance of [Dr. Daniela Rosner](https://www.hcde.washington.edu/rosner), and the [Wildlab](https://wildlab.cs.washington.edu/), where I am also advised by Dr. Katharina Reinecke. My work across these labs focuses on exploring design, technology, and social impact through interdisciplinary research.
+I am a third-year Ph.D. student in Human-Centered Design and Engineering at the University of Washington, specializing in Human-Computer Interaction with a focus on AI/ML fairness. I am a member of the [Tactile and Tactical (TAT) Design Lab](https://tat-lab.github.io/), under the guidance of [Dr. Daniela Rosner](https://www.hcde.washington.edu/rosner), and the [Wildlab](https://wildlab.cs.washington.edu/), where I am also advised by Dr. Katharina Reinecke. My work across these labs focuses on exploring design, technology, and social impact through interdisciplinary research.
 
 
 I am deeply invested in promoting responsible AI/ML systems that prioritize **fairness**, **inclusivity**, and **equity**. My research investigates the sociotechnical implications of **race**, **culture**, **identity**, and **power**, especially in how **intelligent systems** and **automated language technologies** interact with underrepresented communities. Leveraging **inclusive design** and **justice-driven frameworks**, I aim to enhance user experiences with a particular emphasis on **Black American communities**.
