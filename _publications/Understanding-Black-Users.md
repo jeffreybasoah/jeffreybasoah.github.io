@@ -5,10 +5,11 @@ category: manuscripts
 permalink: /publication/UnderstandingBlackUsers
 excerpt: "Black American users experience a tradeoff between the benefits of AI-supported writing technology (AISWT) and feeling excluded by them. Participants reported that AISWT often fails to recognize African American Vernacular English, leading to alienation and concerns about cultural marginalization."
 date: "2025-10-18"
-venue: "[Under Review] The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
+venue: #"[Under Review] The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
-citation: "Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D. Understanding Black Users' Perceptions of AI-Supported Writing Technology. Under review for the 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25)."
+citation: #"Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D. Understanding Black Users' Perceptions of AI-Supported Writing Technology. Under review for the 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25)."
+authors: Jeffrey Basoah, Dr. Katharina Reinecke, Dr. Daniela Rosner, Dr. Ihudiya Finda Ogbonnaya-Ogburu
 ---
 
 AI-supported writing technologies (AISWT) that provide grammatical suggestions, autocomplete sentences, or generate and rewrite
