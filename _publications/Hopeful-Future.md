@@ -9,7 +9,7 @@ date: "2025-04-28"
 show_date: false
 venue: "Under Review" #ACM CHI Conference on Human Factors in Computing Systems (CHI '25)"
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
-paperurl: "http://jeffreybasoah.github.io/files/HopefulFuture"
+paperurl: "http://jeffreybasoah.github.io/files/HopefulFuture.pdf"
 citation: #"Basoah, J., Reinecke, K., Rosner, D., & Ogbonnaya-Ogburu, I. Hopeful Failure: How Collaborative Design Fiction Reimagines AI. Under review for the ACM CHI Conference on Human Factors in Computing Systems (CHI '25)."
 ---
 
