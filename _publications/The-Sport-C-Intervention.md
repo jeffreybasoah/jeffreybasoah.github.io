@@ -1,6 +1,6 @@
 ---
 title: "The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy and Systems Thinking Learning"
-authors: Jeffrey Basoah, Dr. William Scherer, Dr. Karis Boyd-Sinkler, Dr. Reid Bailey
+authors: #Jeffrey Basoah, Dr. William Scherer, Dr. Karis Boyd-Sinkler, Dr. Reid Bailey
 collection: publications
 category: conferences
 permalink: /publication/TheSportCIntervention

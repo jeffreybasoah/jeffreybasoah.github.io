@@ -1,6 +1,6 @@
 ---
 title: "Responsible Automated Speech Recognition: A Scoping Literature Review"
-authors: Jay L. Cunninghma, Jeffrey Basoah, Kowe Kadoma, Adinawa Adjagbodjou, Jainaba Jawara, Aaleyah Lewis
+authors: #Jay L. Cunninghma, Jeffrey Basoah, Kowe Kadoma, Adinawa Adjagbodjou, Jainaba Jawara, Aaleyah Lewis
 collection: publications
 category: conferences
 permalink: /publication/ResponsibleAutomatedSpeechRecognition
