@@ -6,7 +6,7 @@ category: conferences
 permalink: /publication/HopefulFuture
 excerpt: "This study explores how Black American participants envision futures with AI through design fiction workshops, revealing narratives of “hopeful failure” where AI’s limitations open new social possibilities. The findings highlight five key areas of AI engagement, offering insights into the broader social impacts of AI development."
 date: "2025-04-28"
-show_date: false
+show_date: true
 venue: "Under Review" #ACM CHI Conference on Human Factors in Computing Systems (CHI '25)"
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
