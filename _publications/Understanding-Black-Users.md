@@ -1,6 +1,6 @@
 ---
 title: "Understanding Black Users' Perceptions of AI-Supported Writing Technology"
-authors: Jeffrey Basoah, Dr. Katharina Reinecke, Dr. Daniela Rosner, Dr. Ihudiya Finda Ogbonnaya-Ogburu
+authors: Jeffrey Basoah, Dr. Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, [Dr. Katharina Reinecke](https://www.cs.washington.edu/people/faculty/reinecke), Dr. Daniela Rosner
 collection: publications
 category: conferences
 permalink: /publication/UnderstandingBlackUsers
