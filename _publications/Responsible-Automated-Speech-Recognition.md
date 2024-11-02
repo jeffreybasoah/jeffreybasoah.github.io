@@ -1,6 +1,6 @@
 ---
 title: "Responsible Automated Speech Recognition: A Scoping Literature Review"
-authors: Jeffrey Basoah, Dr. Katharina Reinecke, Dr. Daniela Rosner, Dr. Ihudiya Finda Ogbonnaya-Ogburu
+authors: Jay L. Cunninghma, Jeffrey Basoah, Kowe Kadoma, Adinawa Adjagbodjou, Jainaba Jawara, Aaleyah Lewis
 collection: publications
 category: conferences
 permalink: /publication/ResponsibleAutomatedSpeechRecognition

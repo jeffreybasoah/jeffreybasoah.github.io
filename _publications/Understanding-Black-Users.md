@@ -1,6 +1,6 @@
 ---
 title: "Understanding Black Users' Perceptions of AI-Supported Writing Technology"
-authors: Jeffrey Basoah, Dr. Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, [Dr. Katharina Reinecke](https://www.cs.washington.edu/people/faculty/reinecke), Dr. Daniela Rosner
+authors: Jeffrey Basoah, Dr. Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, Dr. Katharina Reinecke, Dr. Daniela Rosner
 collection: publications
 category: conferences
 permalink: /publication/UnderstandingBlackUsers
@@ -9,7 +9,7 @@ date: "2025-10-18"
 show_date: false
 venue: "Under Review" #The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
-paperurl: #'http://academicpages.github.io/files/paper2.pdf'
+paperurl: "http://jeffreybasoah.github.io/files/UnderstandingBlackUsers.pdf"
 citation: #"Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D. Understanding Black Users' Perceptions of AI-Supported Writing Technology. Under review for the 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25)."
 ---
 
@@ -23,3 +23,6 @@ to recognize commonly used names and expressions in African American Vernacular 
 and alienating and fearing it might further minoritize their culture. We end with a reflection on the tension between AISWT that fail
 to include Black American culture and language, and AISWT that attempt to mimic it, with attention to accuracy, authenticity, and the
 production of social difference.
+
+<p><strong>Authors:</strong> Jeffrey Basoah, Dr. Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, 
+<a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, Dr. Daniela Rosner</p>
