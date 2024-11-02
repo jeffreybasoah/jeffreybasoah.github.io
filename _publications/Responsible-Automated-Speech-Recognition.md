@@ -7,7 +7,7 @@ permalink: /publication/ResponsibleAutomatedSpeechRecognition
 excerpt: "This scoping review examines responsible development of automated speech recognition (ASR) systems, focusing on challenges related to bias, fairness, and inclusivity for minority language speakers, particularly African American English (AAE) users. The review highlights the gaps in current ASR practices and provides strategic recommendations for developing linguistically inclusive ASR systems."
 date: "2025-04-28"
 show_date: false
-venue: #"[Under Review]" #ACM CHI Conference on Human Factors in Computing Systems (CHI '25)"
+venue: "Under Review" #ACM CHI Conference on Human Factors in Computing Systems (CHI '25)"
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
 citation: #"Cunningham, J., Basoah, J., Kadoma, K., Adjagbodjou, A., Jawara, J. J., Lewis, A. Responsible Automated Speech Recognition: A Scoping Literature Review. Under review for the ACM CHI Conference on Human Factors in Computing Systems (CHI '25)."
 ---
