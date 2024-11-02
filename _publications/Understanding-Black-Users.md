@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/UnderstandingBlackUsers
 excerpt: "Black American users experience a tradeoff between the benefits of AI-supported writing technology (AISWT) and feeling excluded by them. Participants reported that AISWT often fails to recognize African American Vernacular English, leading to alienation and concerns about cultural marginalization."
-date: #"2025-10-18"
+date: "2025-10-18"
 venue: #"[Under Review] The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
