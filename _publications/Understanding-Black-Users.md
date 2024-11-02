@@ -25,4 +25,4 @@ to include Black American culture and language, and AISWT that attempt to mimic 
 production of social difference.
 
 <p><strong>Authors:</strong> Jeffrey Basoah, <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, 
-<a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, Dr. Daniela Rosner</p>
+<a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Dr. Daniela Rosner</a></p>
