@@ -1,7 +1,7 @@
 ---
 title: "Understanding Black Users' Perceptions of AI-Supported Writing Technology"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/UnderstandingBlackUsers
 excerpt: "Black American users experience a tradeoff between the benefits of AI-supported writing technology (AISWT) and feeling excluded by them. Participants reported that AISWT often fails to recognize African American Vernacular English, leading to alienation and concerns about cultural marginalization."
 date: #"2025-10-18"
