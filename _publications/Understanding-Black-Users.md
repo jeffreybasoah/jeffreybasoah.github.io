@@ -24,5 +24,5 @@ and alienating and fearing it might further minoritize their culture. We end wit
 to include Black American culture and language, and AISWT that attempt to mimic it, with attention to accuracy, authenticity, and the
 production of social difference.
 
-<p><strong>Authors:</strong> Jeffrey Basoah, Dr. Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, 
+<p><strong>Authors:</strong> Jeffrey Basoah, <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, 
 <a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, Dr. Daniela Rosner</p>
