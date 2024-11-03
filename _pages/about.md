@@ -27,4 +27,4 @@ Collaborators: Daniel Chechelnitsky, Tao Long, Kaitlyn Zhou, Dr. Mark Díaz, Dr.
 
 In preparation for submission.
 
-
+<p><strong>Collaborators:</strong> <a href="https://chechelnitskd.github.io" target="_blank">Daniel Chechelnitsky</a>, <a href="https://iamtaolong.github.io/" target="_blank">Tao Long</a>, <a href="https://cs.stanford.edu/~katezhou/" target="_blank">Kaitlyn Zhou</a>, <a href="https://markjdiaz.com/" target="_blank">Dr. Mark Díaz</a>, <a href="https://maartensap.com/" target="_blank">Dr. Maarten Sap</a></p>
