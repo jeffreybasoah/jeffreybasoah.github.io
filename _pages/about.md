@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "UX Researcher | Responsible AI Research Scientist"
+title: "UX Researcher + Responsible AI Research Scientist"
 author_profile: true
 redirect_from: 
   - /about/
