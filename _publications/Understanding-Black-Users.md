@@ -25,7 +25,7 @@ to include Black American culture and language, and AISWT that attempt to mimic 
 production of social difference.
 
 <p><strong>Authors:</strong> 
-  <span style="background-color: #00A5CF; padding: 3px; color: white; display: inline-block;">
+  <span style="color: #7851A9; font-weight: bold;">
     Jeffrey Basoah
   </span>, 
   <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>, 
@@ -37,3 +37,4 @@ production of social difference.
   <a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, 
   <a href="https://www.hcde.washington.edu/rosner" target="_blank">Dr. Daniela Rosner</a>
 </p>
+
