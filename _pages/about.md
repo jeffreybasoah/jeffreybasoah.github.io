@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "UX Researcher | Responsible AI Research Scientist"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ I am deeply invested in promoting responsible AI/ML systems that prioritize **fa
 
 In addition to my academic pursuits, I serve as a board member of [Acquiring Knowledge for Transcendence](https://www.aktcommunity.org/) and design team lead at [A Vision for Engineering Literacy and Access](http://students.washington.edu/avelauw/index.html), both nonprofit organizations dedicated to supporting underrepresented youth in education. My career goal is to establish a research lab that addresses **social disparities in tech design**, ultimately contributing to **data-driven solutions** that mitigate **racial biases** and amplify **diverse voices** within intelligent systems.
 
-([Resume](http://jeffreybasoah.github.io/files/BasoahJeffreyResume.pdf)) ([CV](http://jeffreybasoah.github.io/files/BasoahJeffreyCV.pdf))
+[View my resume here!](http://jeffreybasoah.github.io/files/BasoahJeffreyResume.pdf)
 
 Ongoing Research Projects
 ======
