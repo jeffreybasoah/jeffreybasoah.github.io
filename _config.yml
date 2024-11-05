@@ -27,7 +27,7 @@ author:
   bio              : #"I am a third-year Ph.D. student in Human-Centered Design & Engineering at the University of Washington, specializing in Human-Computer Interaction and AI/ML fairness. In the Tactile and Tactical Design Lab and Wildlab, I research fairness and inclusivity in AI, focusing on how intelligent systems interact with underrepresented communities, especially Black Americans."
   location         : "Seattle, Washington"
   employer         : "University of Washington"
-  uri              : "GEM Fellow"
+  uri              : #"GEM Fellow"
   email            : "jeffkb28@uw.edu" 
 
   # Academic websites
