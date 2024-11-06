@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Responsible Automated Speech Recognition: A Scoping Literature Review"
 authors: #Jay L. Cunninghma, Jeffrey Basoah, Kowe Kadoma, Adinawa Adjagbodjou, Jainaba Jawara, Aaleyah Lewis
 collection: publications
@@ -16,4 +16,4 @@ As Automated Speech Recognition (ASR) technologies become increasingly prevalent
 
 <p><strong>Authors:</strong> <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>,  <span style="color: #7851A9; font-weight: bold;">
     Jeffrey Basoah
-  </span>, <a href="https://kadomak.github.io/" target="_blank">Kowe Kadoma</a>, <a href="https://sites.google.com/andrew.cmu.edu/adinawaadjagbodjou/home" target="_blank">Adinawa Adjagbodjou</a>, <a href="https://jainabaj.github.io/" target="_blank">Jainaba Jawara</a>, <a href="https://aaleyahlewis.github.io/" target="_blank">Aaleyah Lewis</a></p>
+  </span>, <a href="https://kadomak.github.io/" target="_blank">Kowe Kadoma</a>, <a href="https://sites.google.com/andrew.cmu.edu/adinawaadjagbodjou/home" target="_blank">Adinawa Adjagbodjou</a>, <a href="https://jainabaj.github.io/" target="_blank">Jainaba Jawara</a>, <a href="https://aaleyahlewis.github.io/" target="_blank">Aaleyah Lewis</a></p> -->
