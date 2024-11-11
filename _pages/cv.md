@@ -74,21 +74,48 @@ Publications
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**IBM Corporation**<br>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+*User Experience Researcher, Senior Intern (January 2024 – August 2024)*<br>
+
+*	Initiated and implemented a company-wide program to identify challenges across multiple clients, with a focus on improving user experience and engagement<br>
+* Conducted qualitative research through usability testing to guide design strategies for proprietary product development<br>
+*	Improved product’s UMUX score by 14% amount within a period of 6 months by identifying key areas for improvement and developing a strategic plan encompassing usability testing and design critiques with users to enhance user experience<br>
+*	Informed product team direction by conducting an in-depth qualitative study to identify and uncover new user segments for growth  which influenced the design and development priorities of design iterations of user interfaces and product features<br>
+*	Through my qualitative research I was able to identify a new user group that the development team had not considered as primary users for the product. This led to the creation of a new user segments that influenced the direction we took with product enhancement<br>
+
+*User Experience Researcher, Senior Intern (June 2023 – September 2023*<br>
+
+* Analyzed over 20 customer feedback on a bi-weekly frequency to identify key highlights and challenges faced by customers during product beta testing program; analysis was used to influence product development and align with product strategy for the upcoming release<br>
+* Compiled and synthesized over 100 user comments to inform the development of 5 generative research workshop sessions with user base; workshops served as the foundational discussions that shed light on user grievances with most recent product release<br>
+*	Oversaw the conduction of over 15 internal interviews to assess the impact of 2 distinct visual frameworks on client adoption of the product platform, deriving 7 evidence-based insights and recommendations; findings served as the foundation for exploratory research with customers that would garner greater adoption of product<br>
+
+*User Experience Researcher, Intern (May 2022 – December 2022)*<br>
+
+*	Conducted 2 heuristic evaluations of z/OS Management Services Catalog product by evaluating primary end-to-end user flows of 2 personas with latest code; Identified 20 improvement points within user flows<br>
+*	Collaborated with User Experience Designer to architect and design team’s 2 Airtable databases and sponsor user feedback forms; improvements allow for easy capture of user experience feedback and seamless integration with current client feedback process<br>
+*	Administered 6 usability tests on sponsor users with new product designs while working alongside the User Experience Designer to form a research plan; utilized an affinity map to synthesize results and then communicated to three-in-a-box team<br>
+*	Developed an on-platform CSAT survey to over 200 participants to measure customer satisfaction and usability of IBM’s Management Services Catalog platform<br>
+
+**Intel Corporation**<br>
+
+*Process Engineer (August 2018 – August 2020)*<br>
+
+*	Modeled and assessed tool trends of over 150 tools to predict and identify potential unscheduled downtime using Statistical Process Control (SPC) system<br>
+*	Launched a daily report for the SCC toolset tracking and monitoring matching discrepancies across 3 tools, led to biweekly optimization of all tool’s measured layers<br>
+*	Revamped disposition system for REG valid data failures toolset to maintain seamless data review and communication throughout all 4 shifts and command center<br>
+*	Chaired project formed to reduce quarterly spending for DPCdc, reduced spending by an average of $6000 per quarter while doubling allocated annual budget<br>
+*	Managed and investigated equipment failures of 7 tools, diagnosed faulty operation and incorporated learnings into procedures to anticipate future equipment issues<br>
+*	Shaped DPCdc availability roadmap; tool availability improved from an annual average of 86% to 94% as tool owner<br>
+
+**Ford Motor Company** 
+
+*Stamping Coordinator, Intern (May 2016 – August 2016)*
+
+*	Developed visual aids and single point lessons for new control point process verification system, increasing quality of stamped panels by 25%
+*	Implemented verification system into assembly line, educated & coached 20 Tool & Die staff in proper procedure 
+
 Grants
 ======
 
@@ -102,15 +129,15 @@ Grants
 Honors and Awards
 ======
 
-*2023*	Neon Blackboard Term Fellowship in Human-Centered Design & Engineering<br>
-*2022*	University of Washington College of Engineering Dean’s Fellowship<br>
-*2022*	GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
-*2022*	GEM Full Engineering Fellow, The National GEM Consortium and IBM – Ph.D.<br>
-*2021*	Inclusive Excellence Fellow<br>
-*2021*	National Society of Black Engineers Honors APEx Member<br>
-*2020*	GEM Full Engineering Fellow, The National GEM Consortium and Intel – M.S.<br>
-*2020*	Intel Scholar<br>
-*2013*	Virginia Tech Presidential Scholarship Initiative Recipient<br>
+*2023*	  Neon Blackboard Term Fellowship in Human-Centered Design & Engineering<br>
+*2022*	  University of Washington College of Engineering Dean’s Fellowship<br>
+*2022*	  GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
+*2022*	  GEM Full Engineering Fellow, The National GEM Consortium and IBM – Ph.D.<br>
+*2021*	  Inclusive Excellence Fellow<br>
+*2021*	  National Society of Black Engineers Honors APEx Member<br>
+*2020*	  GEM Full Engineering Fellow, The National GEM Consortium and Intel – M.S.<br>
+*2020*	  Intel Scholar<br>
+*2013*	  Virginia Tech Presidential Scholarship Initiative Recipient<br>
 
 Skills
 ======
