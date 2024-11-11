@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Human-Centered Design and Engineering, University of Washington, 2026 (Expected)<br>  
-  Concentration: Human-Computer Interaction, AI/ML Fairness<br>
-  Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
+Concentration: Human-Computer Interaction, AI/ML Fairness<br>
+Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
 * M.S. in Human-Centered Design and Engineering, University of Washington, 2025 (Expected)
   Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke
 * M.S. in Systems Engineering, University of Virginia, 2022
