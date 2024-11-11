@@ -189,7 +189,7 @@ Involvement and Comunity Engagement
 ======
 
 *2022 - Present*&emsp; 	Member/ Outreaching Grad - Graduate Student Equity & Excellence (GSEE) – University of Washington<br>
-*2022 – Present*&emsp;	Member – Black Graduate Student Association (BGSA) – University of Washington<br>
+*2022 - Present*&emsp;	Member – Black Graduate Student Association (BGSA) – University of Washington<br>
 *2017 - Present*&emsp; 	Board of Director, Education Outreach – Acquiring Knowledge for Transcendence, Inc<br>
 
 Affiliations
