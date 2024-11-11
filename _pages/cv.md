@@ -8,19 +8,19 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<br>
 Education
 ======
-* Ph.D in Human-Centered Design and Engineering, University of Washington, 2026 (Expected)<br>  
+* Ph.D in Human-Centered Design and Engineering, University of Washington, 2026 (Expected)<br>
 Concentration: Human-Computer Interaction, AI/ML Fairness<br>
 Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
-* M.S. in Human-Centered Design and Engineering, University of Washington, 2025 (Expected)
-  Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke
-* M.S. in Systems Engineering, University of Virginia, 2022
-  Thesis: “The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy, and Systems Thinking Learning”
-  Advised by Dr. William Scherer
-* B.S. Mechanical Engineering, Virginia Polytechnic Institute and State University, 2018
-  Minor: Green Engineering
+* M.S. in Human-Centered Design and Engineering, University of Washington, 2025 (Expected)<br>
+Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
+* M.S. in Systems Engineering, University of Virginia, 2022<br>
+Thesis: “The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy, and Systems Thinking Learning”
+Advised by Dr. William Scherer<br>
+* B.S. Mechanical Engineering, Virginia Polytechnic Institute and State University, 2018<br>
+Minor: Green Engineering<br>
 
 Research Experience
 ======
