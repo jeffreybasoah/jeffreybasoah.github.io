@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Human-Centered Design and Engineering, University of Washington, 2026 (Expected)
-  Concentration: Human-Computer Interaction, AI/ML Fairness
-  Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke
+* Ph.D in Human-Centered Design and Engineering, University of Washington, 2026 (Expected)<br>  
+  Concentration: Human-Computer Interaction, AI/ML Fairness<br>
+  Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
 * M.S. in Human-Centered Design and Engineering, University of Washington, 2025 (Expected)
   Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke
 * M.S. in Systems Engineering, University of Virginia, 2022
