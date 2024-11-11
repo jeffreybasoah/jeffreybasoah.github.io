@@ -12,15 +12,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Human-Centered Design and Engineering, University of Washington, 2026 (Expected)<br>
+* **Ph.D in Human-Centered Design and Engineering**, University of Washington, *2026 (Expected)*<br>
 Concentration: Human-Computer Interaction, AI/ML Fairness<br>
 Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
-* M.S. in Human-Centered Design and Engineering, University of Washington, 2025 (Expected)<br>
+* **M.S. in Human-Centered Design and Engineering**, University of Washington, *2025 (Expected)*<br>
 Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
-* M.S. in Systems Engineering, University of Virginia, 2022<br>
+* **M.S. in Systems Engineering**, University of Virginia, *2022*<br>
 Thesis: “The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy, and Systems Thinking Learning”
 Advised by Dr. William Scherer<br>
-* B.S. Mechanical Engineering, Virginia Polytechnic Institute and State University, 2018<br>
+* **B.S. Mechanical Engineering**, Virginia Polytechnic Institute and State University, *2018*<br>
 Minor: Green Engineering<br>
 
 Research Experience
@@ -138,6 +138,33 @@ Honors and Awards
 *2020*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and Intel – M.S.<br>
 *2020*&emsp;	  Intel Scholar<br>
 *2013*&emsp;	  Virginia Tech Presidential Scholarship Initiative Recipient<br>
+
+Teaching Experience
+======
+
+*Graduate Teaching Assistant*<br>
+University of Washington - HCDE492: Capstone Planning (Winter 2024), Senior Capstone (Spring 2024)<br>
+
+*	Facilitated discussions and group activities during class sessions for over 70 students to enhance learning and engagement
+*	Served as a mentor for 4 4 person industry-sponsored capstone groups over the course of two quarters, promoting academic integrity, professionalism, and ethical practices
+*	Conducted review sessions and provided guidance to students on course concepts, assignments, and capstone milestones
+
+*Graduate Teaching Assistant*<br>
+University of Virginia - SYS3034: System Evaluation (Spring 2021, Spring 2022)<br>
+
+*	Provided academic support and instruction to 60 students in undergraduate level course
+*	Facilitated classroom discussion sessions and held weekly office hours to provide tutoring, counseling, or assistance to students in need
+*	Contributed to the development of appropriate teaching materials to ensure content and methods of delivery met learning objectives
+
+*Graduate Teaching Assistant*<br>
+University of Virginia - SYS6001:  Intro to Systems Analysis & Design (Fall 2021)<br>
+
+*	Delivered comprehensive academic support and instruction to a cohort of 30 graduate-level students, ensuring a conducive learning environment and fostering intellectual growth.
+*	Collaborated with faculty members to facilitate lectures, evaluate student performance, and conduct grading assessments, contributing to the overall success of the instructional team.
+
+
+
+
 
 Skills
 ======
