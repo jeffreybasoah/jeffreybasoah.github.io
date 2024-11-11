@@ -129,15 +129,15 @@ Grants
 Honors and Awards
 ======
 
-*2023*	  Neon Blackboard Term Fellowship in Human-Centered Design & Engineering<br>
-*2022*	  University of Washington College of Engineering Dean’s Fellowship<br>
-*2022*	  GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
-*2022*	  GEM Full Engineering Fellow, The National GEM Consortium and IBM – Ph.D.<br>
-*2021*	  Inclusive Excellence Fellow<br>
-*2021*	  National Society of Black Engineers Honors APEx Member<br>
-*2020*	  GEM Full Engineering Fellow, The National GEM Consortium and Intel – M.S.<br>
-*2020*	  Intel Scholar<br>
-*2013*	  Virginia Tech Presidential Scholarship Initiative Recipient<br>
+*2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design & Engineering<br>
+*2022*&emsp;	  University of Washington College of Engineering Dean’s Fellowship<br>
+*2022*&emsp;	  GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
+*2022*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and IBM – Ph.D.<br>
+*2021*&emsp;	  Inclusive Excellence Fellow<br>
+*2021*&emsp;	  National Society of Black Engineers Honors APEx Member<br>
+*2020*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and Intel – M.S.<br>
+*2020*&emsp;	  Intel Scholar<br>
+*2013*&emsp;	  Virginia Tech Presidential Scholarship Initiative Recipient<br>
 
 Skills
 ======
