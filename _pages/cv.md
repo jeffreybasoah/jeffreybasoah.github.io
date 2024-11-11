@@ -149,33 +149,100 @@ University of Washington - HCDE492: Capstone Planning (Winter 2024), Senior Caps
 *	Served as a mentor for 4 4 person industry-sponsored capstone groups over the course of two quarters, promoting academic integrity, professionalism, and ethical practices
 *	Conducted review sessions and provided guidance to students on course concepts, assignments, and capstone milestones
 
-*Graduate Teaching Assistant*<br>
 University of Virginia - SYS3034: System Evaluation (Spring 2021, Spring 2022)<br>
 
 *	Provided academic support and instruction to 60 students in undergraduate level course
 *	Facilitated classroom discussion sessions and held weekly office hours to provide tutoring, counseling, or assistance to students in need
 *	Contributed to the development of appropriate teaching materials to ensure content and methods of delivery met learning objectives
 
-*Graduate Teaching Assistant*<br>
 University of Virginia - SYS6001:  Intro to Systems Analysis & Design (Fall 2021)<br>
 
 *	Delivered comprehensive academic support and instruction to a cohort of 30 graduate-level students, ensuring a conducive learning environment and fostering intellectual growth.
 *	Collaborated with faculty members to facilitate lectures, evaluate student performance, and conduct grading assessments, contributing to the overall success of the instructional team.
 
+Invited Talks and Panels
+======
+
+*2022*&emsp;	Presenter - The 18th International Conference on Frontiers in Education: Computer Science & Computer Engineering<br>
+*2021*&emsp;	Panelist - Navigating & Maximizing Professional Conferences<br>
+*2021*&emsp;	Presenter - Darden Executive MBA Course: Data Analytics and Leadership Judgment in Sports<br>
+*2020*&emsp;	Panelist - Tapia Conference: Secure Your Bag(s) & Degree(s): Graduate School Edition<br>
+
+Leadership
+======
+*2022 - Present*&emsp;	Design Lead and Mentor - A Vision for Engineering Literacy & Access (AVELA)<br>
+*2022 – 2023*&emsp;	Professional Development Program Committee Member – National Society of Black Engineers (UoW)<br>
+*2021 - 2022*&emsp;	Program Assistant - Men/Women of Color, Honor, and Ambition (M.O.C.H.A/W.O.C.H.A)<br>
+*Est. 2017*&emsp;		Co-Founder, Board of Director – Acquiring Knowledge for Transcendence, Inc. (Non-Profit)<br>
+*2015 – 2016*&emsp;	Senator – National Society of Black Engineers (Virginia Tech)<br>
+
+Professional & Serivce Activities
+======
+
+*Department Service*
+
+*2023 - Present*&emsp;	PhD Student Ambassador, University of Washington Human-Centered Design & Engineering<br>
+*2023*&emsp;		PhD Admissions Review Committee, University of Washington Human-Centered Design & Engineering<br>
 
 
+Involvement and Comunity Engagement
+======
+
+*2022 - Present*&emsp; 	Member/ Outreaching Grad - Graduate Student Equity & Excellence (GSEE) – University of Washington<br>
+*2022 – Present*&emsp;	Member – Black Graduate Student Association (BGSA) – University of Washington<br>
+*2017 - Present*&emsp; 	Board of Director, Education Outreach – Acquiring Knowledge for Transcendence, Inc<br>
+
+Affiliations
+======
+
+* National Society of Black Engineers (NSBE)<br>
+* Association of Computing Machinery (ACM)<br>
+
+Conferences
+======
+
+*2023*&emsp;	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+*2022*&emsp;	The 18th International Conference on Frontiers in Education: Computer Science & Computer Engineering<br>
+*2022*&emsp;	GEM Annual Board Meeting and Conference<br>
+*2022*&emsp;	NSBE National Convention<br>
+*2021*&emsp;	CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference<br>
+*2021*&emsp;	NSBE Fall Regional Conference – Region 2<br>
+*2021*&emsp;	AfroTech Conference<br>
+*2021*&emsp;	Black is Tech Conference<br>
+*2021*&emsp;	GEM Annual Board Meeting and Conference<br>
+*2020*&emsp;	CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference<br>
+*2013 - 2018*&emsp;	  NSBE National Convention and Fall Regional 2 Conference	<br>
 
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-  
+* Qualitative Research
+  * Semi Structured Interviews
+  * Remote Moderated Usability Testing
+  * Heuristic Evaluation
+  * Affinity Mapping
+  * Experimental Design
+  * Stakeholder Walkthrough
+  * Survey Design
+* Quantitative Research
+  * Linear Regression
+  * Binary Regression
+  * Hypothesis Testing
+  * Chi-Square
+  * ANOVA
+  * T-Test
+  * Correlation
+* Software Skills
+  * Minitab 
+  * Tableau 
+  * Power BI 
+  * Qualtrics 
+  * Airtable
+  * Advanced Microsoft Excel
+* Programming Languages
+  * R/RStudio 
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
