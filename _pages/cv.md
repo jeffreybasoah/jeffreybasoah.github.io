@@ -176,17 +176,6 @@ Leadership
 *Est. 2017*&emsp;		Co-Founder, Board of Director – Acquiring Knowledge for Transcendence, Inc. (Non-Profit)<br>
 *2015 – 2016*&emsp;	Senator – National Society of Black Engineers (Virginia Tech)<br>
 
-Leadership
-======
-
-<p><strong>2022 - Present</strong> &emsp; Design Lead and Mentor - A Vision for Engineering Literacy & Access (AVELA)</p>
-<p><strong>2022 – 2023</strong> &emsp; Professional Development Program Committee Member – National Society of Black Engineers (UoW)</p>
-<p><strong>2021 - 2022</strong> &emsp; Program Assistant - Men/Women of Color, Honor, and Ambition (M.O.C.H.A/W.O.C.H.A)</p>
-<p><strong>Est. 2017</strong> &emsp; Co-Founder, Board of Director – Acquiring Knowledge for Transcendence, Inc. (Non-Profit)</p>
-<p><strong>2015 – 2016</strong> &emsp; Senator – National Society of Black Engineers (Virginia Tech)</p>
-
-
-
 Professional & Serivce Activities
 ======
 
@@ -194,7 +183,6 @@ Professional & Serivce Activities
 
 *2023 - Present*&emsp;	PhD Student Ambassador, University of Washington Human-Centered Design & Engineering<br>
 *2023*&emsp;		PhD Admissions Review Committee, University of Washington Human-Centered Design & Engineering<br>
-
 
 Involvement and Comunity Engagement
 ======
@@ -223,7 +211,6 @@ Conferences
 *2021*&emsp;	GEM Annual Board Meeting and Conference<br>
 *2020*&emsp;	CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference<br>
 *2013 - 2018*&emsp;	  NSBE National Convention and Fall Regional 2 Conference	<br>
-
 
 Skills
 ======
