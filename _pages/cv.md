@@ -20,7 +20,7 @@ Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
 * **M.S. in Systems Engineering**, University of Virginia, *2022*<br>
 Thesis: “The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy, and Systems Thinking Learning”
 Advised by Dr. William Scherer<br>
-* **B.S. Mechanical Engineering**, Virginia Polytechnic Institute and State University, *2018*<br>
+* **B.S. in Mechanical Engineering**, Virginia Polytechnic Institute and State University, *2018*<br>
 Minor: Green Engineering<br>
 
 Research Experience
@@ -175,6 +175,17 @@ Leadership
 *2021 - 2022*&emsp;	Program Assistant - Men/Women of Color, Honor, and Ambition (M.O.C.H.A/W.O.C.H.A)<br>
 *Est. 2017*&emsp;		Co-Founder, Board of Director – Acquiring Knowledge for Transcendence, Inc. (Non-Profit)<br>
 *2015 – 2016*&emsp;	Senator – National Society of Black Engineers (Virginia Tech)<br>
+
+Leadership
+======
+
+<p><strong>2022 - Present</strong> &emsp; Design Lead and Mentor - A Vision for Engineering Literacy & Access (AVELA)</p>
+<p><strong>2022 – 2023</strong> &emsp; Professional Development Program Committee Member – National Society of Black Engineers (UoW)</p>
+<p><strong>2021 - 2022</strong> &emsp; Program Assistant - Men/Women of Color, Honor, and Ambition (M.O.C.H.A/W.O.C.H.A)</p>
+<p><strong>Est. 2017</strong> &emsp; Co-Founder, Board of Director – Acquiring Knowledge for Transcendence, Inc. (Non-Profit)</p>
+<p><strong>2015 – 2016</strong> &emsp; Senator – National Society of Black Engineers (Virginia Tech)</p>
+
+
 
 Professional & Serivce Activities
 ======
