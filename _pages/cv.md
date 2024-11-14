@@ -129,6 +129,7 @@ Grants
 Honors and Awards
 ======
 
+*2024*&emsp;	  Social Action Term Fellowship in Human-Centered Design @Engineering<br>
 *2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design & Engineering<br>
 *2022*&emsp;	  University of Washington College of Engineering Dean’s Fellowship<br>
 *2022*&emsp;	  GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
@@ -143,6 +144,7 @@ Teaching Experience
 ======
 
 *Graduate Teaching Assistant*<br>
+
 University of Washington - HCDE492: Capstone Planning (Winter 2024), Senior Capstone (Spring 2024)<br>
 
 *	Facilitated discussions and group activities during class sessions for over 70 students to enhance learning and engagement
