@@ -129,8 +129,8 @@ Grants
 Honors and Awards
 ======
 
-*2024*&emsp;	  Social Action Term Fellowship in Human-Centered Design @Engineering<br>
-*2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design & Engineering<br>
+*2024*&emsp;	  Social Action Term Fellowship in Human-Centered Design & Engineering<br>
+*2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design& Engineering<br>
 *2022*&emsp;	  University of Washington College of Engineering Dean’s Fellowship<br>
 *2022*&emsp;	  GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
 *2022*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and IBM – Ph.D.<br>
@@ -183,6 +183,7 @@ Professional & Serivce Activities
 
 *Department Service*
 
+*2024*&emsp;		PhD Admissions Review Committee, University of Washington Human-Centered Design & Engineering<br>
 *2023 - Present*&emsp;	PhD Student Ambassador, University of Washington Human-Centered Design & Engineering<br>
 *2023*&emsp;		PhD Admissions Review Committee, University of Washington Human-Centered Design & Engineering<br>
 
