@@ -85,7 +85,7 @@ Work experience
 *	Informed product team direction by conducting an in-depth qualitative study to identify and uncover new user segments for growth  which influenced the design and development priorities of design iterations of user interfaces and product features<br>
 *	Through my qualitative research I was able to identify a new user group that the development team had not considered as primary users for the product. This led to the creation of a new user segments that influenced the direction we took with product enhancement<br>
 
-*User Experience Researcher, Senior Intern (June 2023 – September 2023*<br>
+*User Experience Researcher, Senior Intern (June 2023 – September 2023)*<br>
 
 * Analyzed over 20 customer feedback on a bi-weekly frequency to identify key highlights and challenges faced by customers during product beta testing program; analysis was used to influence product development and align with product strategy for the upcoming release<br>
 * Compiled and synthesized over 100 user comments to inform the development of 5 generative research workshop sessions with user base; workshops served as the foundational discussions that shed light on user grievances with most recent product release<br>
