@@ -26,7 +26,7 @@ Research Interests
 - Inclusive Design
 - Data-Driven Solutions to Mitigate Racial Biases
 
+<!--
 Ongoing Research Projects
 ======
-
-
+-->
