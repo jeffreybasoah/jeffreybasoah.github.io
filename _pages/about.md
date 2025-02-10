@@ -29,10 +29,4 @@ Research Interests
 Ongoing Research Projects
 ======
 
-**Bridging Sociolects and AI: Assessing User Interaction with Sociolectally Adapted Large Language Models**
 
-As large language models (LLMs) become increasingly integrated into daily communication, it is crucial that they understand and utilize sociolects appropriately. This study presents a quantitative experiment in which LLMs are fine-tuned to generate text in specific sociolects, including African American Vernacular English (AAVE) and Queer Slang. Participants engage with these LLMs through tasks such as video summarization and topic discussions, allowing us to measure key factors such as user trust, cultural sensitivity, and confidence. Our research examines the impact of sociolectal adaptation on AI perception, focusing on user satisfaction, frustration, trust, perceived social proximity, and reliance
-
-<p><strong>Collaborators:</strong> <a href="https://chechelnitskd.github.io" target="_blank">Daniel Chechelnitsky</a>, <a href="https://iamtaolong.github.io/" target="_blank">Tao Long</a>, <a href="https://cs.stanford.edu/~katezhou/" target="_blank">Kaitlyn Zhou</a>, <a href="https://markjdiaz.com/" target="_blank">Dr. Mark Díaz</a>, <a href="https://maartensap.com/" target="_blank">Dr. Maarten Sap</a></p>
-
-In preparation for submission.
