@@ -11,7 +11,9 @@ I am a third-year Ph.D. student and [GEM Fellow](https://www.gemfellowship.org/g
 
 I am deeply invested in promoting responsible AI/ML systems that prioritize **fairness**, **inclusivity**, and **equity**. My research investigates the sociotechnical implications of **race** and **culture** especially in how **intelligent systems** and **automated language technologies** interact with underrepresented communities. Leveraging **inclusive design** and **justice-driven frameworks**, I aim to enhance user experiences with a particular emphasis on **Black American communities**.
 
+<!--
 In addition to my academic pursuits, I serve as a board member of [Acquiring Knowledge for Transcendence](https://www.aktcommunity.org/) and design team lead at [A Vision for Engineering Literacy and Access](http://students.washington.edu/avelauw/index.html), both nonprofit organizations dedicated to supporting underrepresented youth in education. My career goal is to establish a research lab that addresses **social disparities in tech design**, ultimately contributing to **data-driven solutions** that mitigate **racial biases** and amplify **diverse voices** within intelligent systems.
+-->
 
 [View my resume here!](http://jeffreybasoah.github.io/files/BasoahJeffreyResume.pdf)
 
