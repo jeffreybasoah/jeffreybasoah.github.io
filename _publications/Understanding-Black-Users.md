@@ -1,6 +1,6 @@
 ---
 title: "Understanding Black Users' Perceptions of AI-Supported Writing Technology"
-authors: <p><strong>Authors:</strong> <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, <a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Dr. Daniela Rosner</a></p>
+authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, <a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Dr. Daniela Rosner</a>
 collection: publications
 category: conferences
 permalink: /publication/UnderstandingBlackUsers
@@ -24,6 +24,7 @@ and alienating and fearing it might further minoritize their culture. We end wit
 to include Black American culture and language, and AISWT that attempt to mimic it, with attention to accuracy, authenticity, and the
 production of social difference.
 
+<!--
 <p><strong>Authors:</strong> 
   <span style="color: #7851A9; font-weight: bold;">
     Jeffrey Basoah
@@ -37,5 +38,4 @@ production of social difference.
   <a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, 
   <a href="https://www.hcde.washington.edu/rosner" target="_blank">Dr. Daniela Rosner</a>
 </p>
-
- Jeffrey Basoah, Dr. Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, Dr. Katharina Reinecke, Dr. Daniela Rosner
+-->
