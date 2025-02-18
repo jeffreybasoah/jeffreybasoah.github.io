@@ -6,7 +6,7 @@ category: conferences
 permalink: /publication/TheSportCIntervention
 excerpt: "The SPORT-C intervention integrates sports, systems thinking, and case-based learning to make STEM education more engaging and culturally relevant for underrepresented students. A pilot study suggests this approach boosts student motivation and engagement in STEM subjects."
 date: "2023-06-19"
-venue: "The 18th International Conference on Frontiers in Education: Computer Science & Computer Engineering (FECS'22) [Accepted, awaiting publication]"
+venue: "18th International Conference on Frontiers in Education: Computer Science & Computer Engineering (FECS'22) [Accepted, awaiting publication]"
 slidesurl: "http://jeffreybasoah.github.io/files/CSCEPresentationDraft.pdf"
 paperurl: "https://arxiv.org/abs/2307.11755"
 citation: "Basoah, J., Scherer, W., Boyd-Sinkler, K., & Bailey, R. (2023, June 19). The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy and Systems Thinking Learning. 18th International Conference on Frontiers in Education: Computer Science & Computer Engineering (FECS'22). https://doi.org/10.48550/arXiv.2307.11755 [Accepted, awaiting publication]"
@@ -16,3 +16,4 @@ The STEM field is unrepresentative of the population it serves. Due to a lack of
 
 <!--
 <p><strong>Authors:</strong>  <span style="color: #7851A9; font-weight: bold;">Jeffrey Basoah</span>, <a href="https://engineering.virginia.edu/faculty/memoriam-william-t-scherer" target="_blank">Dr. William Scherer</a>, <a href="https://spire.duke.edu/karis-boyd-sinkler" target="_blank">Dr. Karis Boyd-Sinkler</a>, <a href="https://engineering.virginia.edu/faculty/reid-bailey" target="_blank">Dr. Reid Bailey</a></p>
+-->
