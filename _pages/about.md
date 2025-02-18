@@ -36,3 +36,5 @@ Diasporic urban farming communities cultivate not only food but also ecological 
 Our research investigates the intersection of AI technologies and diasporic farming infrastructures—a critical yet underexplored site in U.S. technological, economic, and agrarian systems. We seek to understand how AI farming technologies engage with or overlook the expertise of minoritarian farmers and whether industry-driven smart agricultural solutions align with the values and practices of minoritarian farming communities.
 
 This research aims to bridge the gap between emerging AI farming solutions and the lived realities of diasporic agricultural communities, ensuring technological advancements respect, integrate, and uplift minoritized knowledge systems.
+
+Collaborators: [Dr. Daniela Rosner](https://www.hcde.washington.edu/rosner), [Amelia Lee Dogan](https://ameliadogan.github.io/)
