@@ -1,16 +1,16 @@
 ---
 title: "Understanding Black Users' Perceptions of AI-Supported Writing Technology"
-authors: #Jeffrey Basoah, Dr. Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, Dr. Katharina Reinecke, Dr. Daniela Rosner
+authors: Jeffrey Basoah, Dr. Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, Dr. Katharina Reinecke, Dr. Daniela Rosner
 collection: publications
 category: conferences
 permalink: /publication/UnderstandingBlackUsers
 excerpt: "Black American users experience a tradeoff between the benefits of AI-supported writing technology (AISWT) and feeling excluded by them. Participants reported that AISWT often fails to recognize African American Vernacular English, leading to alienation and concerns about cultural marginalization."
 date: "2025-10-18"
 show_date: true
-venue: "Accepted" #The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
+venue: "The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: "http://jeffreybasoah.github.io/files/UnderstandingBlackUsers.pdf"
-citation: "Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D. Understanding Black Users' Perceptions of AI-Supported Writing Technology. Accepted: 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25)."
+citation: "Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D. Understanding Black Users' Perceptions of AI-Supported Writing Technology. 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25).[Accepted, awaiting publication]"
 ---
 
 AI-supported writing technologies (AISWT) that provide grammatical suggestions, autocomplete sentences, or generate and rewrite
