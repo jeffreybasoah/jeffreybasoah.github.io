@@ -1,13 +1,13 @@
 ---
 title: "Understanding Black Users' Perceptions of AI-Supported Writing Technology"
-authors: <p><strong>Authors:</strong> <span style="color:#7851A9; font-weight: bold;">Jeffrey Basoah</span>, <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, <a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Dr. Daniela Rosner</a</p>
+authors: <p><strong>Authors:</strong> <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, <a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Dr. Daniela Rosner</a</p>
 collection: publications
 category: conferences
 permalink: /publication/UnderstandingBlackUsers
 excerpt: "Black American users experience a tradeoff between the benefits of AI-supported writing technology (AISWT) and feeling excluded by them. Participants reported that AISWT often fails to recognize African American Vernacular English, leading to alienation and concerns about cultural marginalization."
 date: "2025-10-18"
 show_date: true
-venue: "The 28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
+venue: "28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: "http://jeffreybasoah.github.io/files/UnderstandingBlackUsers.pdf"
 citation: "Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D. Understanding Black Users' Perceptions of AI-Supported Writing Technology. 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25).[Accepted, awaiting publication]"
