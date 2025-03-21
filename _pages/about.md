@@ -26,6 +26,7 @@ Research Interests
 - Inclusive Design
 - Data-Driven Solutions to Mitigate Racial Biases
 
+<!--
 Ongoing Research Projects
 ======
 
@@ -38,3 +39,5 @@ Our research investigates the intersection of AI technologies and diasporic farm
 This research aims to bridge the gap between emerging AI farming solutions and the lived realities of diasporic agricultural communities, ensuring technological advancements respect, integrate, and uplift minoritized knowledge systems.
 
 Collaborators: [Dr. Daniela Rosner](https://www.hcde.washington.edu/rosner), [Amelia Lee Dogan](https://ameliadogan.github.io/)
+
+-->
