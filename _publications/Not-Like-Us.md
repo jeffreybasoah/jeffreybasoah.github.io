@@ -1,16 +1,16 @@
 ---
 title: "Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs"
-authors: #Jeffrey Basoah, Dr. Katharina Reinecke, Dr. Daniela Rosner, Dr. Ihudiya Finda Ogbonnaya-Ogburu
+authors: <span style="color:#7851A9; font-weight: bold;"> Jeffrey Basoah </span>, </strong> <a href="https://chechelnitskd.github.io" target="_blank">Daniel Chechelnitsky</a>, <a href="https://iamtaolong.github.io/" target="_blank">Tao Long</a>, <a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, Dr. Chrysoula Zerva, <a href="https://cs.stanford.edu/~katezhou/" target="_blank">Kaitlyn Zhou</a>, <a href="https://markjdiaz.com/" target="_blank">Dr. Mark Díaz</a>, <a href="https://maartensap.com/" target="_blank">Dr. Maarten Sap</a></p>
 collection: publications
 category: conferences
 permalink: /publication/NotLikeUs
 excerpt: "As LLMs adapt to diverse users, they risk appropriating sociolects—language styles tied to minoritized experiences (e.g., African American English, Queer slang). Our study with 985 participants found that while users relied more on and had better perceptions of standard American English (SAE) outputs, sociolect usage influenced social presence differently across groups, highlighting the need for careful LLM design that respects linguistic boundaries while fostering trust and engagement."
-date: "2025-04-28"
+date: "2025-06-23"
 show_date: false
-venue: #"Under Review" #ACM CHI Conference on Human Factors in Computing Systems (CHI '25)"
+venue: "ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)"
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: "http://jeffreybasoah.github.io/files/NotLikeUs.pdf"
-citation: #"Basoah, J., Reinecke, K., Rosner, D., & Ogbonnaya-Ogburu, I. Hopeful Failure: How Collaborative Design Fiction Reimagines AI. Under review for the ACM CHI Conference on Human Factors in Computing Systems (CHI '25)."
+citation: "Basoah, J., Chechelnitsky, D., Long, T., Reinecke, K., Zerva, C., Zhou, K., Diaz, M., & Sap, M. Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs. ACM Conference on Fairness, Accountability, and Transparency (FAccT '25). [Accepted, awaiting publication]"
 ---
 
 As large language models (LLMs) increasingly adapt and personalize to diverse sets of users, there is an increased risk of systems appropriating sociolects, i.e., language styles or dialects that are associated with specific minoritized lived experiences (e.g., African American English, Queer slang). In this work, we examine whether sociolect usage by an LLM agent affects user reliance on its outputs and user perception (satisfaction, frustration, trust, and social presence). We designed and conducted user studies where 498 African American English (AAE) speakers and 487 Queer slang speakers performed a set of question-answering tasks with LLM-based suggestions in either standard American English (SAE) or their self-identified sociolect. Our findings showed that sociolect usage by LLMs influenced both reliance and perceptions, though in some surprising ways. Results suggest that both AAE and Queer slang speakers relied more on the SAE agent, and had more positive perceptions of the SAE agent. Yet, only Queer slang speakers felt more social presence from the Queer slang agent over the SAE one, whereas only AAE speakers preferred and trusted the SAE agent over the AAE one. These findings emphasize the need to test for behavioral outcomes rather than simply assuming that personalization would leave to better and safer reliance outcome. They also highlight the nuanced dynamics of minoritized language in machine interactions, underscoring the need for LLMs to be carefully designed to respect cultural and linguistic boundaries while fostering genuine user engagement and trust.

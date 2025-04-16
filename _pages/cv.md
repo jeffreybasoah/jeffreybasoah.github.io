@@ -26,8 +26,16 @@ Minor: Green Engineering<br>
 Research Experience
 ======
 
-**Wildlab x TAT Lab @ University of Washington**<br>
+**TAT Lab x Wildlab @ University of Washington**<br>
 *Graduate Research Assistant (September 2022 – Present)*<br>
+
+* Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs
+
+  * As large language models (LLMs) increasingly adapt and personalize to diverse sets of users, there is an increased risk of systems appropriating sociolects, i.e., language styles or dialects that are associated with specific minoritized lived experiences (e.g., African American English, Queer slang). In this work, we examine whether sociolect usage by an LLM agent affects user reliance on its outputs and user perception (satisfaction, frustration, trust, and social presence). We designed and conducted user studies where 498 African American English (AAE) speakers and 487 Queer slang speakers performed a set of question-answering tasks with LLM-based suggestions in either standard American English (SAE) or their self-identified sociolect. 
+
+    * Results suggest that both AAE and Queer slang speakers relied more on the SAE agent, and had more positive perceptions of the SAE agent. Yet, only Queer slang speakers felt more social presence from the Queer slang agent over the SAE one, whereas only AAE speakers preferred and trusted the SAE agent over the AAE one.
+    * These findings emphasize the need to test for behavioral outcomes rather than simply assuming that personalization would leave to better and safer reliance outcome.
+
 
 * Hopeful Failure: How Collaborative Design Fiction Reimagines AI
 
@@ -37,7 +45,7 @@ Research Experience
     *	We identify five engagement axes with AI, blending acceptance and resistance, moving beyond simple optimism or pessimism.
     *	We develop a collective approach to design fiction, balancing individual agency with shared imagination to envision alternative AI futures
 
-* Understanding Black Users' Perceptions of AI-Supported Writing Technology
+* Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users
 
   * Although much research has examined bias in large language models, studies on how Black American users experience everyday interactions with NLP tools are still emerging. This study explores the expectations, apprehensions, and perceptions of Black American users regarding AI-supported writing technology. We conducted semi-structured virtual interviews with 13 participants, followed by a remote-moderated user study of word processing software (Google Docs) and large language models (ChatGPT).
 
@@ -126,26 +134,12 @@ Grants
 * University of Washington Human Centered Design & Engineering Doctoral Research Grant – *Awarded $1340*
   * Designed to support HCDE PhD students who need assistance to carry out research that advances their progress toward their degree
 
-Honors and Awards
-======
-
-*2024*&emsp;	  Social Action Term Fellowship in Human-Centered Design & Engineering<br>
-*2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design& Engineering<br>
-*2022*&emsp;	  University of Washington College of Engineering Dean’s Fellowship<br>
-*2022*&emsp;	  GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
-*2022*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and IBM – Ph.D.<br>
-*2021*&emsp;	  Inclusive Excellence Fellow<br>
-*2021*&emsp;	  National Society of Black Engineers Honors APEx Member<br>
-*2020*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and Intel – M.S.<br>
-*2020*&emsp;	  Intel Scholar<br>
-*2013*&emsp;	  Virginia Tech Presidential Scholarship Initiative Recipient<br>
-
 Teaching Experience
 ======
 
 *Graduate Teaching Assistant*<br>
 
-University of Washington - HCDE492: Capstone Planning (Winter 2024), Senior Capstone (Spring 2024)<br>
+University of Washington - HCDE492: Capstone Planning (Winter 2024), Senior Capstone (Spring 2024, Spring 2025)<br>
 
 *	Facilitated discussions and group activities during class sessions for over 70 students to enhance learning and engagement
 *	Served as a mentor for 4 4 person industry-sponsored capstone groups over the course of two quarters, promoting academic integrity, professionalism, and ethical practices
@@ -161,6 +155,20 @@ University of Virginia - SYS6001:  Intro to Systems Analysis & Design (Fall 2021
 
 *	Delivered comprehensive academic support and instruction to a cohort of 30 graduate-level students, ensuring a conducive learning environment and fostering intellectual growth.
 *	Collaborated with faculty members to facilitate lectures, evaluate student performance, and conduct grading assessments, contributing to the overall success of the instructional team.
+
+Honors and Awards
+======
+
+*2024*&emsp;	  Social Action Term Fellowship in Human-Centered Design & Engineering<br>
+*2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design& Engineering<br>
+*2022*&emsp;	  University of Washington College of Engineering Dean’s Fellowship<br>
+*2022*&emsp;	  GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
+*2022*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and IBM – Ph.D.<br>
+*2021*&emsp;	  Inclusive Excellence Fellow<br>
+*2021*&emsp;	  National Society of Black Engineers Honors APEx Member<br>
+*2020*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and Intel – M.S.<br>
+*2020*&emsp;	  Intel Scholar<br>
+*2013*&emsp;	  Virginia Tech Presidential Scholarship Initiative Recipient<br>
 
 Invited Talks and Panels
 ======
@@ -193,12 +201,6 @@ Involvement and Comunity Engagement
 *2022 - Present*&emsp; 	Member/ Outreaching Grad - Graduate Student Equity & Excellence (GSEE) – University of Washington<br>
 *2022 - Present*&emsp;	Member – Black Graduate Student Association (BGSA) – University of Washington<br>
 *2017 - Present*&emsp; 	Board of Director, Education Outreach – Acquiring Knowledge for Transcendence, Inc<br>
-
-Affiliations
-======
-
-* National Society of Black Engineers (NSBE)<br>
-* Association of Computing Machinery (ACM)<br>
 
 Conferences
 ======
