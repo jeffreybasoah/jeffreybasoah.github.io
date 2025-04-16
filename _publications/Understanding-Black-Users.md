@@ -1,5 +1,5 @@
 ---
-title: "Understanding Black Users' Perceptions of AI-Supported Writing Technology"
+title: "Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users"
 authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, <a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Dr. Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Dr. Daniela Rosner</a>
 collection: publications
 category: conferences
@@ -10,7 +10,7 @@ show_date: true
 venue: "28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: "http://jeffreybasoah.github.io/files/UnderstandingBlackUsers.pdf"
-citation: "Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D. Understanding Black Users' Perceptions of AI-Supported Writing Technology. 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25).[Accepted, awaiting publication]"
+citation: "Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D. Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users. 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25).[Accepted, awaiting publication]"
 ---
 
 AI-supported writing technologies (AISWT) that provide grammatical suggestions, autocomplete sentences, or generate and rewrite
