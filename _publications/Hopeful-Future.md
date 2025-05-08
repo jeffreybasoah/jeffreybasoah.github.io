@@ -1,6 +1,6 @@
 ---
 title: "Hopeful Failure: How Collaborative Design Fiction Reimagines AI"
-authors: #Jeffrey Basoah, Dr. Katharina Reinecke, Dr. Daniela Rosner, Dr. Ihudiya Finda Ogbonnaya-Ogburu
+authors: #Jeffrey Basoah, Katharina Reinecke, Daniela Rosner, Ihudiya Finda Ogbonnaya-Ogburu
 collection: publications
 category: conferences
 permalink: /publication/HopefulFuture

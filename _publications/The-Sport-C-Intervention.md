@@ -1,6 +1,6 @@
 ---
 title: "The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy and Systems Thinking Learning"
-authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://engineering.virginia.edu/faculty/memoriam-william-t-scherer" target="_blank">Dr. William Scherer</a>, <a href="https://spire.duke.edu/karis-boyd-sinkler" target="_blank">Dr. Karis Boyd-Sinkler</a>, <a href="https://engineering.virginia.edu/faculty/reid-bailey" target="_blank">Dr. Reid Bailey</a>
+authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://engineering.virginia.edu/faculty/memoriam-william-t-scherer" target="_blank">William Scherer</a>, <a href="https://spire.duke.edu/karis-boyd-sinkler" target="_blank">Karis Boyd-Sinkler</a>, <a href="https://engineering.virginia.edu/faculty/reid-bailey" target="_blank">Reid Bailey</a>
 collection: publications
 category: conferences
 permalink: /publication/TheSportCIntervention
