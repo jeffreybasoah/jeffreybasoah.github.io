@@ -1,18 +1,25 @@
 ---
 title: "Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs"
-authors: <span style="color:#7851A9; font-weight:bold;"> Jeffrey Basoah </span>, </strong> <a href="https://chechelnitskd.github.io" target="_blank">Daniel Chechelnitsky</a>, <a href="https://iamtaolong.github.io/" target="_blank">Tao Long</a>, <a href="https://homes.cs.washington.edu/~reinecke/" target="_blank">Katharina Reinecke</a>, <a href="https://underline.io/speakers/153843-chrysoula-zerva" target="_blank"> Chrysoula Zerva</a>, <a href="https://cs.stanford.edu/~katezhou/" target="_blank">Kaitlyn Zhou</a>, <a href="https://markjdiaz.com/" target="_blank">Mark Díaz</a>, <a href="https://maartensap.com/" target="_blank">Maarten Sap</a></p>
+authors: >-
+  <span style="color:#7851A9; font-weight:bold">Jeffrey Basoah</span>,
+  <a href="https://chechelnitskd.github.io" target="_blank">Daniel Chechelnitsky</a>,
+  <a href="https://iamtaolong.github.io/" target="_blank">Tao Long</a>,
+  <a href="https://homes.cs.washington.edu/~reinecke/" target="_blank">Katharina Reinecke</a>,
+  <a href="https://underline.io/speakers/153843-chrysoula-zerva" target="_blank">Chrysoula Zerva</a>,
+  <a href="https://cs.stanford.edu/~katezhou/" target="_blank">Kaitlyn Zhou</a>,
+  <a href="https://markjdiaz.com/" target="_blank">Mark Díaz</a>,
+  <a href="https://maartensap.com/" target="_blank">Maarten Sap</a>
 collection: publications
 category: conferences
 permalink: /publication/NotLikeUs
-excerpt: "As LLMs adapt to diverse users, they risk appropriating sociolects—language styles tied to minoritized experiences (e.g., African American English, Queer slang). Our study with 985 participants found that while users relied more on and had better perceptions of standard American English (SAE) outputs, sociolect usage influenced social presence differently across groups, highlighting the need for careful LLM design that respects linguistic boundaries while fostering trust and engagement."
+excerpt: "As LLMs adapt to diverse users, they risk appropriating sociolects…"
 date: "2025-06-23"
 show_date: false
-venue: "ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)"
-slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
+venue: "ACM Conference on Fairness, Accountability, and Transparency (FAccT ’25)"
 paperurl: "http://jeffreybasoah.github.io/files/NotLikeUs.pdf"
-citation: "Jeffrey Basoah, Daniel Chechelnitsky, Tao Long, Katharina Reinecke, Chrysoula Zerva, Kaitlyn Zhou, Mark Díaz, and Maarten Sap. 2025. Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25). Association for Computing Machinery, New York, NY, USA, 710–745. https://doi.org/10.1145/3715275.3732045"
-"
+citation: "Jeffrey Basoah, Daniel Chechelnitsky, Tao Long, Katharina Reinecke, Chrysoula Zerva, Kaitlyn Zhou, Mark Díaz, and Maarten Sap. 2025. Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’25). Association for Computing Machinery, New York, NY, USA, 710–745. https://doi.org/10.1145/3715275.3732045"
 ---
+
 
 As large language models (LLMs) increasingly adapt and personalize to diverse sets of users, there is an increased risk of systems appropriating sociolects, i.e., language styles or dialects that are associated with specific minoritized lived experiences (e.g., African American English, Queer slang). In this work, we examine whether sociolect usage by a LLM agent affects user reliance on its outputs and user perception (satisfaction, frustration, trust, and social presence). We designed and conducted user studies where 498 African American English (AAE) speakers and 487 Queer slang speakers performed a set of question-answering tasks with LLM-based suggestions in either standard American English (SAE) or their self-identified sociolect. Our findings showed that sociolect usage by LLMs influenced both reliance and perceptions, though in some surprising ways. Results suggest that both AAE and Queer slang speakers relied more on the SAELM, and had more positive perceptions of the SAELM. Yet, only Queer slang speakers felt more social presence from the QSLM over the SAE one, whereas only AAE speakers preferred and trusted the SAELM over the AAE one. These findings emphasize the need to test for behavioral outcomes rather than simply assume that personalization would lead to a better and safer reliance outcome. They also highlight the nuanced dynamics of minoritized language in machine interactions, underscoring the need for LLMs to be carefully designed to respect cultural and linguistic boundaries while fostering genuine user engagement and trust.
 
