@@ -13,7 +13,7 @@ permalink: /publication/TowardResponsibleASR
 excerpt: "This paper examines bias and equity challenges in automatic speech recognition for African American English speakers. Through a scoping review, we identify systemic limitations in current ASR systems and propose pathways toward more equitable speech technology."
 date: "2025-10-20"
 show_date: false
-venue: "AAAI/ACM Conference on AI, Ethics, and Society (AIES–2025). Madrid, Spain."
+venue: "AAAI/ACM Conference on AI, Ethics, and Society (AIES–2025) [Accepted, awaiting publication]"
 paperurl: "http://academicpages.github.io/files/paper3.pdf"
 citation: "Cunningham, J. L., Adjagbodjou, A., Basoah, J., Jawara, J., Kadoma, K., & Lewis, A. (2025). Toward Responsible ASR for African American English Speakers: A Scoping Review of Bias and Equity in Speech Technology. In Proceedings of the 2025 AAAI/ACM Conference on AI, Ethics, and Society (AIES-2025). Madrid, Spain. [Accepted, awaiting publication]"
 ---
