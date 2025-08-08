@@ -1,6 +1,6 @@
 ---
 title: "Toward Responsible ASR for African American English Speakers: A Scoping Review of Bias and Equity in Speech Technology"
-authors: <p><strong>Authors:</strong> <a href="https://jaylcunningham.com/" target="_blank">Jay L. Cunningham</a>, <a href="https://www.adinawaadjagbodjou.com/" target="_blank">Adinawa Adjagbodjou</a>, <span style="color:#7851A9; font-weight: bold"> Jeffrey Basoah </span>, <a href="https://jainabaj.github.io/" target="_blank">Jainaba Jawara</a>, <a href="https://kadomak.github.io/" target="_blank">Kowe Kadoma</a>, <a href="https://aaleyahlewis.github.io/" target="_blank">Aaleyah Lewis</a></p>
+authors: </strong> <a href="https://jaylcunningham.com/" target="_blank">Jay L. Cunningham</a>, <a href="https://www.adinawaadjagbodjou.com/" target="_blank">Adinawa Adjagbodjou</a>, <span style="color:#7851A9; font-weight: bold"> Jeffrey Basoah </span>, <a href="https://jainabaj.github.io/" target="_blank">Jainaba Jawara</a>, <a href="https://kadomak.github.io/" target="_blank">Kowe Kadoma</a>, <a href="https://aaleyahlewis.github.io/" target="_blank">Aaleyah Lewis</a>
 collection: publications
 category: conferences
 permalink: /publication/TowardResponsibleASR
