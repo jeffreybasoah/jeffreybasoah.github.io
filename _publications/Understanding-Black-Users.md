@@ -10,7 +10,7 @@ show_date: true
 venue: "28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: "http://jeffreybasoah.github.io/files/UnderstandingBlackUsers.pdf"
-citation: "Basoah, J., Cunningham, J., Adams, E., Bose, A., Jain, A., Yadav, K., Yang, Z., Reinecke, K., & Rosner, D. Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users. 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW '25).[Accepted, awaiting publication]"
+citation: "Jeffrey Basoah, Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, Katharina Reinecke, and Daniela Rosner. 2025. Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users. Proc. ACM Hum.-Comput. Interact. 9, 7, Article 242 (November 2025), 53 pages. https://doi.org/10.1145/3757423"
 ---
 
 AI-supported writing technologies (AISWT) that provide grammatical suggestions, autocomplete sentences, or generate and rewrite
