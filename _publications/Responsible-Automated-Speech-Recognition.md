@@ -1,19 +1,16 @@
-<!-- ---
-title: "Responsible Automated Speech Recognition: A Scoping Literature Review"
-authors: #Jay L. Cunninghma, Jeffrey Basoah, Kowe Kadoma, Adinawa Adjagbodjou, Jainaba Jawara, Aaleyah Lewis
+title: "Toward Responsible ASR for African American English Speakers: A Scoping Review of Bias and Equity in Speech Technology"
+authors: Jay L. Cunningham, Adinawa Adjagbodjou, Jeffrey Basoah, Jainaba Jawara, Kowe Kadoma, Aaleyah Lewis
 collection: publications
 category: conferences
-permalink: /publication/ResponsibleAutomatedSpeechRecognition
-excerpt: "This scoping review examines responsible development of automated speech recognition (ASR) systems, focusing on challenges related to bias, fairness, and inclusivity for minority language speakers, particularly African American English (AAE) users. The review highlights the gaps in current ASR practices and provides strategic recommendations for developing linguistically inclusive ASR systems."
-date: "2025-04-28"
+permalink: /publication/TowardResponsibleASR
+excerpt: "This paper examines bias and equity challenges in automatic speech recognition for African American English speakers. Through a scoping review, we identify systemic limitations in current ASR systems and propose pathways toward more equitable speech technology."
+date: "2025-10-20"
 show_date: false
-venue: "Under Review" #ACM CHI Conference on Human Factors in Computing Systems (CHI '25)"
+venue: AAAI/ACM Conference on AI, Ethics, and Society (AIES '25)"
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
-citation: #"Cunningham, J., Basoah, J., Kadoma, K., Adjagbodjou, A., Jawara, J. J., Lewis, A. Responsible Automated Speech Recognition: A Scoping Literature Review. Under review for the ACM CHI Conference on Human Factors in Computing Systems (CHI '25)."
+citation: "Cunningham, J. L., Adinawa Adjagbodjou, Basoah, J., Jawara, J., Kadoma, K., & Lewis, A. (2025). Toward Responsible ASR for African American English Speakers: A Scoping Review of Bias and Equity in Speech Technology. In Proceedings of the 2025 AAAI/ACM Conference on AI, Ethics, and Society (AIES-2025). Madrid, Spain."
 ---
 
-As Automated Speech Recognition (ASR) technologies become increasingly prevalent in Natural Language Processing (NLP), ensuring their responsible and inclusive development is crucial. This scoping literature review analyzes interdisciplinary scholarship across human-computer interaction (HCI), and computational and sociolinguistics, encompassing 44 key papers. We identify significant discussions within these fields on the challenges of inclusivity in NLP and ASR, particularly on how biases in design, data practices, and implementation affect ethnically and linguistically diverse groups such as African-American English (AAE) speakers. Our analysis provides a foundational understanding of the current discourse and outlines future research directions to develop NLP technologies that are socially affirming and inclusive. This paper concludes with strategic considerations for shifting paradigms in the development of ASR and NLP systems, emphasizing the roles of responsible NLP practitioners in addressing trustworthy AI, power dynamics, harmful linguistic ideologies, and advocating for linguistic justice.
+This scoping literature review examines how fairness, bias, and equity are conceptualized and operationalized in Automatic Speech Recognition (ASR) and adjacent speech and language technologies (SLT) for African American English (AAE) speakers and other minoritized language communities. Drawing from 44 peer-reviewed publications across Human-Computer Interaction (HCI), Machine Learning/Natural Language Processing (ML/NLP), and Sociolinguistics, we identify four major areas of inquiry: (1) how researchers understand ASR-related harms; (2) inclusive data practices spanning collection, curation, annotation, and model training; (3) methodological and theoretical approaches to linguistic inclusion; and (4) emerging practices and design recommendations for more equitable systems. While technical fairness interventions are growing, our review highlights a critical gap in governance-centered approaches that foreground community agency, linguistic justice, and participatory accountability. We propose a governance-centered ASR lifecycle as an emergent interdisciplinary framework for responsible ASR development and offer implications for researchers, practitioners, and policymakers seeking to address language marginalization in speech AI systems.
 
-<p><strong>Authors:</strong> <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>,  <span style="color: #7851A9; font-weight: bold;">
-    Jeffrey Basoah
-  </span>, <a href="https://kadomak.github.io/" target="_blank">Kowe Kadoma</a>, <a href="https://sites.google.com/andrew.cmu.edu/adinawaadjagbodjou/home" target="_blank">Adinawa Adjagbodjou</a>, <a href="https://jainabaj.github.io/" target="_blank">Jainaba Jawara</a>, <a href="https://aaleyahlewis.github.io/" target="_blank">Aaleyah Lewis</a></p> -->
+<p><strong>Authors:</strong> <a href="https://jaylcunningham.com/" target="_blank">Jay L. Cunningham</a>, <a href="https://sites.google.com/andrew.cmu.edu/adinawaadjagbodjou/home" target="_blank">Adinawa Adjagbodjou</a>, <span style="color: #7851A9; font-weight: bold;"> Jeffrey Basoah </span>, <a href="https://jainabaj.github.io/" target="_blank">Jainaba Jawara</a>, <a href="https://kadomak.github.io/" target="_blank">Kowe Kadoma</a>, <a href="https://aaleyahlewis.github.io/" target="_blank">Aaleyah Lewis</a></p>
