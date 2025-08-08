@@ -6,6 +6,7 @@ category: conferences
 permalink: /publication/TheSportCIntervention
 excerpt: "The SPORT-C intervention integrates sports, systems thinking, and case-based learning to make STEM education more engaging and culturally relevant for underrepresented students. A pilot study suggests this approach boosts student motivation and engagement in STEM subjects."
 date: "2023-06-19"
+show_date: false
 venue: "18th International Conference on Frontiers in Education: Computer Science & Computer Engineering (FECS'22) [Accepted, awaiting publication]"
 slidesurl: "http://jeffreybasoah.github.io/files/CSCEPresentationDraft.pdf"
 paperurl: "https://arxiv.org/abs/2307.11755"
