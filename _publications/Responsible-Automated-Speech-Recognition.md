@@ -1,3 +1,4 @@
+---
 title: "Toward Responsible ASR for African American English Speakers: A Scoping Review of Bias and Equity in Speech Technology"
 authors: Jay L. Cunningham, Adinawa Adjagbodjou, Jeffrey Basoah, Jainaba Jawara, Kowe Kadoma, Aaleyah Lewis
 collection: publications
