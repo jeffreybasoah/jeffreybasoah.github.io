@@ -1,6 +1,6 @@
 ---
 title: "Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs"
-authors: <span style="color:#7851A9; font-weight:bold;"> Jeffrey Basoah </span>, </strong> <a href="https://chechelnitskd.github.io" target="_blank">Daniel Chechelnitsky</a>, <a href="https://iamtaolong.github.io/" target="_blank">Tao Long</a>, <a href="https://www.cs.washington.edu/people/faculty/reinecke" target="_blank">Katharina Reinecke</a>,Chrysoula Zerva, <a href="https://cs.stanford.edu/~katezhou/" target="_blank">Kaitlyn Zhou</a>, <a href="https://markjdiaz.com/" target="_blank">Mark Díaz</a>, <a href="https://maartensap.com/" target="_blank">Maarten Sap</a></p>
+authors: <span style="color:#7851A9; font-weight:bold;"> Jeffrey Basoah </span>, </strong> <a href="https://chechelnitskd.github.io" target="_blank">Daniel Chechelnitsky</a>, <a href="https://iamtaolong.github.io/" target="_blank">Tao Long</a>, <a href="https://homes.cs.washington.edu/~reinecke/" target="_blank">Katharina Reinecke</a>, <a href="https://underline.io/speakers/153843-chrysoula-zerva" target="_blank"> Chrysoula Zerva</a>, <a href="https://cs.stanford.edu/~katezhou/" target="_blank">Kaitlyn Zhou</a>, <a href="https://markjdiaz.com/" target="_blank">Mark Díaz</a>, <a href="https://maartensap.com/" target="_blank">Maarten Sap</a></p>
 collection: publications
 category: conferences
 permalink: /publication/NotLikeUs
