@@ -7,7 +7,7 @@ permalink: /publication/NotLikeUs
 excerpt: "As LLMs adapt to diverse users, they risk appropriating sociolects—language styles tied to minoritized experiences (e.g., African American English, Queer slang). Our study with 985 participants found that while users relied more on and had better perceptions of standard American English (SAE) outputs, sociolect usage influenced social presence differently across groups, highlighting the need for careful LLM design that respects linguistic boundaries while fostering trust and engagement."
 date: "2025-06-23"
 show_date: false
-venue: <a href="https://dl.acm.org/doi/10.1145/3715275.3732045" target="_blank"> ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)</a>
+venue: ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: "http://jeffreybasoah.github.io/files/NotLikeUs.pdf"
 citation: "Jeffrey Basoah, Daniel Chechelnitsky, Tao Long, Katharina Reinecke, Chrysoula Zerva, Kaitlyn Zhou, Mark Díaz, and Maarten Sap. 2025. Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25). Association for Computing Machinery, New York, NY, USA, 710–745. https://doi.org/10.1145/3715275.3732045

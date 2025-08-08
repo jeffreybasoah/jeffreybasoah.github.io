@@ -10,7 +10,7 @@ show_date: false
 venue: "18th International Conference on Frontiers in Education: Computer Science & Computer Engineering (FECS'22) [Accepted, awaiting publication]"
 slidesurl: "http://jeffreybasoah.github.io/files/CSCEPresentationDraft.pdf"
 paperurl: "https://arxiv.org/abs/2307.11755"
-citation: "Basoah, J., Scherer, W., Boyd-Sinkler, K., & Bailey, R. (2023, June 19). The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy and Systems Thinking Learning. 18th International Conference on Frontiers in Education: Computer Science & Computer Engineering (FECS'22). <a href="https://doi.org/10.48550/arXiv.2307.11755" target="_blank">https://doi.org/10.48550/arXiv.2307.11755</a> [Accepted, awaiting publication]"
+citation: "Basoah, J., Scherer, W., Boyd-Sinkler, K., & Bailey, R. (2023, June 19). The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy and Systems Thinking Learning. 18th International Conference on Frontiers in Education: Computer Science & Computer Engineering (FECS'22). https://doi.org/10.48550/arXiv.2307.11755 [Accepted, awaiting publication]"
 
 ---
 
