@@ -1,6 +1,6 @@
 ---
 title: "Hopeful Failure: How Collaborative Design Fiction Reimagines AI"
-authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://homes.cs.washington.edu/~reinecke/" target="_blank">Dr. Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Dr. Daniela Rosner</a>, <a href="https://website.cs.vt.edu/people/faculty/ihudiya-finda-williams.html" target="_blank">Dr. Ihudiya Finda Ogburu</a>
+authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://homes.cs.washington.edu/~reinecke/" target="_blank">Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Daniela Rosner</a>, <a href="https://website.cs.vt.edu/people/faculty/ihudiya-finda-williams.html" target="_blank">Ihudiya Finda Ogburu</a>
 collection: publications
 category: conferences
 permalink: /publication/HopefulFuture

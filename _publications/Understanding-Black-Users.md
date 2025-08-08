@@ -1,6 +1,6 @@
 ---
 title: "Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users"
-authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://jaylcunningham.com/" target="_blank">Dr. Jay L. Cunningham</a>, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, <a href="https://homes.cs.washington.edu/~reinecke/" target="_blank">Dr. Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Dr. Daniela Rosner</a>
+authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://jaylcunningham.com/" target="_blank">Jay L. Cunningham</a>, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, <a href="https://homes.cs.washington.edu/~reinecke/" target="_blank">Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Daniela Rosner</a>
 collection: publications
 category: conferences
 permalink: /publication/UnderstandingBlackUsers
