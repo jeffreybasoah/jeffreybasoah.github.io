@@ -3,14 +3,14 @@ title: "Should AI Mimic People? Understanding AI-Supported Writing Technology Am
 authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://jaylcunningham.com/" target="_blank">Jay L. Cunningham</a>, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, <a href="https://homes.cs.washington.edu/~reinecke/" target="_blank">Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Daniela Rosner</a>
 collection: publications
 category: conferences
-permalink: /publication/UnderstandingBlackUsers
+permalink: /publication/ShouldAIMimicPeople
 excerpt: "Black American users experience a tradeoff between the benefits of AI-supported writing technology (AISWT) and feeling excluded by them. Participants reported that AISWT often fails to recognize African American Vernacular English, leading to alienation and concerns about cultural marginalization."
 date: "2025-10-18"
 show_date: false
 venue: "28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
-paperurl: "http://jeffreybasoah.github.io/files/UnderstandingBlackUsers.pdf"
-citation: "Jeffrey Basoah, Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, Katharina Reinecke, and Daniela Rosner. 2025. Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users. Proc. ACM Hum.-Comput. Interact. 9, 7, Article 242 (November 2025), 53 pages."
+paperurl: "http://jeffreybasoah.github.io/files/ShouldAIMimicPeople.pdf"
+citation: "Jeffrey Basoah, Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, Katharina Reinecke, and Daniela Rosner. 2025. Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users. Proc. ACM Hum.-Comput. Interact. 9, 7, Article 242 (November 2025), 51 pages."
 ---
 
 AI-supported writing technologies (AISWT) that provide grammatical suggestions, autocomplete sentences, or generate and rewrite
