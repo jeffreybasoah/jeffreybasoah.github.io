@@ -9,7 +9,7 @@ date: "2025-10-18"
 show_date: false
 venue: "28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
-paperurl: "http://jeffreybasoah.github.io/files/ShouldAIMimicPeople.pdf"
+paperurl: "https://arxiv.org/abs/2505.00821"
 citation: "Jeffrey Basoah, Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, Katharina Reinecke, and Daniela Rosner. 2025. Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users. Proc. ACM Hum.-Comput. Interact. 9, 7, Article 242 (November 2025), 51 pages."
 ---
 
