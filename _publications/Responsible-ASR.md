@@ -14,8 +14,8 @@ excerpt: "This paper examines bias and equity challenges in automatic speech rec
 date: "2025-10-20"
 show_date: false
 venue: "AAAI/ACM Conference on AI, Ethics, and Society (AIES '25)"
-slideurl: "http://jeffreybasoah.github.io/files/TowardsResponsibleASRPoster.jpeg"
-paperurl: "https://arxiv.org/abs/2508.18288"
+slideurl: "http://jeffreybasoah.github.io/files/TowardsResponsibleASRPoster.pdf"
+paperurl: "https://doi.org/10.1609/aies.v8i1.36580"
 citation: "Cunningham, J. L., Adjagbodjou, A., Basoah, J., Jawara, J., Kadoma, K., & Lewis, A. (2025). Toward Responsible ASR for African American English Speakers: A Scoping Review of Bias and Equity in Speech Technology. In Proceedings of the 2025 AAAI/ACM Conference on AI, Ethics, and Society (AIES-2025). Madrid, Spain."
 ---
 
