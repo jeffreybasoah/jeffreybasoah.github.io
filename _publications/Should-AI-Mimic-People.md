@@ -7,8 +7,8 @@ permalink: /publication/ShouldAIMimicPeople
 excerpt: "Black American users experience a tradeoff between the benefits of AI-supported writing technology (AISWT) and feeling excluded by them. Participants reported that AISWT often fails to recognize African American Vernacular English, leading to alienation and concerns about cultural marginalization."
 date: "2025-10-16"
 show_date: false
-venue: "28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25)"
-slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
+venue: "28th ACM Conference On Computer-Supported Cooperative Work and Social Computing (CSCW '25) [won DEI award]"
+slidesurl: "http://jeffreybasoah.github.io/files/ShouldAIMimicPeoplePresentation.pdf"
 paperurl: "https://doi.org/10.1145/3757423"
 citation: "Jeffrey Basoah, Jay L. Cunningham, Erica Adams, Alisha Bose, Aditi Jain, Kaustubh Yadav, Zhengyang Yang, Katharina Reinecke, and Daniela Rosner. 2025. Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users. Proc. ACM Hum.-Comput. Interact. 9, 7, Article 242 (November 2025), 51 pages."
 ---
