@@ -83,6 +83,18 @@ Publications
 Work experience
 ======
 
+**Microsoft**<br>
+
+*Design Researcher, Intern (June 2025 – September 2025)*<br>
+
+*	Led foundational research shaping mid- to long-term AI UX strategy for Microsoft's Agent 365 initiative, focusing on risks and design opportunities around personified, agentic AI and AI-powered digital workers<br>
+* Conducted an extensive literature and discourse review spanning over 30 academic research papers and public debate on agentic AI; synthesized insights into a taxonomy of 14 organizational, group, and individual-level risks<br>
+* Mapped each risk to existing and emergent design mitigation tactics, producing a scalable risk-to-mitigation framework that informed BIC's Responsible AI design strategy<br>
+* Conducted 15+ cross-functional interviews with engineers, product managers, and designers to understand perceptions and apprehensions toward agentic AI, uncovering needs for clearer design guardrails and risk literacy.
+* Identified and prioritized the top three critical risks for immediate mitigation, collaborating with the cross-functional Agent 365 team to prototype design principle cards used to guide AI UX teams across BIC<br>
+* Developed strategic recommendations and foresight and presented those findings to BIC's Corporate Vice President, research leadership, global design organization, and the company-wide Aether v-team, influencing the responsible deployment of agentic AI across Microsoft 365 and Dynamics ecosystems<br>
+
+
 **IBM Corporation**<br>
 
 *User Experience Researcher, Senior Intern (January 2024 – August 2024)*<br>
