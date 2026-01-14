@@ -9,9 +9,9 @@ authors: >-
   <a href="https://cs.stanford.edu/~katezhou/" target="_blank">Kaitlyn Zhou</a>,
   <a href="https://markjdiaz.com/" target="_blank">Mark Díaz</a>,
   <a href="https://maartensap.com/" target="_blank">Maarten Sap</a>
-collection: publications
-category: conferences
-permalink: /publication/NotLikeUs
+collection: #publications
+category: #conferences
+permalink: #/publication/NotLikeUs
 excerpt: "As LLMs adapt to diverse users, they risk appropriating sociolects…"
 date: "2025-06-23"
 show_date: false

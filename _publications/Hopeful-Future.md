@@ -1,7 +1,7 @@
 ---
 title: "Hopeful Failure: How Collaborative Design Fiction Reimagines AI"
 authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <a href="https://homes.cs.washington.edu/~reinecke/" target="_blank">Katharina Reinecke</a>, <a href="https://www.hcde.washington.edu/rosner" target="_blank">Daniela Rosner</a>, <a href="https://website.cs.vt.edu/people/faculty/ihudiya-finda-williams.html" target="_blank">Ihudiya Finda Ogbonnaya-Ogburu</a>
-collection: #publications
+collection: publications
 category: conferences
 permalink: /publication/HopefulFuture
 excerpt: "This study explores how Black American participants envision futures with AI through design fiction workshops, revealing narratives of “hopeful failure” where AI’s limitations open new social possibilities. The findings highlight five key areas of AI engagement, offering insights into the broader social impacts of AI development."
