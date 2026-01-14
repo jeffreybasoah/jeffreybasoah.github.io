@@ -93,6 +93,7 @@ Work experience
 * Conducted 15+ cross-functional interviews with engineers, product managers, and designers to understand perceptions and apprehensions toward agentic AI, uncovering needs for clearer design guardrails and risk literacy.
 * Identified and prioritized the top three critical risks for immediate mitigation, collaborating with the cross-functional Agent 365 team to prototype design principle cards used to guide AI UX teams across BIC<br>
 * Developed strategic recommendations and foresight and presented those findings to BIC's Corporate Vice President, research leadership, global design organization, and the company-wide Aether v-team, influencing the responsible deployment of agentic AI across Microsoft 365 and Dynamics ecosystems<br>
+* Findings were surfaced by Microsoft’s Office of Responsible AI and integrated into early company-wide policy and governance frameworks guiding AI agent design<br>
 
 
 **IBM Corporation**<br>
