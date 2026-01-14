@@ -15,7 +15,7 @@ Education
 * **Ph.D in Human-Centered Design and Engineering**, University of Washington, *2026 (Expected)*<br>
 Concentration: Human-Computer Interaction, AI/ML Fairness<br>
 Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
-* **M.S. in Human-Centered Design and Engineering**, University of Washington, *2025 (Expected)*<br>
+* **M.S. in Human-Centered Design and Engineering**, University of Washington, *2025*<br>
 Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
 * **M.S. in Systems Engineering**, University of Virginia, *2022*<br>
 Thesis: “The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy, and Systems Thinking Learning”
