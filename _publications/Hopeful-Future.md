@@ -5,9 +5,9 @@ collection: publications
 category: conferences
 permalink: /publication/HopefulFuture
 excerpt: "In two collaborative design fiction workshops, 10 Black American participants — each with prior experience using AI writing tools — used Exquisite Tellings, a turn-based storytelling method, to co-author speculative narratives about AI. Participants consistently imagined moments of technological failure — not as endpoints, but as openings. These failures surfaced resourcefulness, community, and capacities that automation had obscured. We call this pattern hopeful failure: the idea that where AI falls short, broader social possibilities emerge."
-date: "2025-04-28"
+date: "2026-06-13"
 show_date: false
-venue: "Conditionally Accepted" #ACM SIGCHI Designing Interactive Systems Conference (DIS '26)"
+venue: "Conditionally Accepted" #ACM SIGCHI Designing Interactive Systems Conference (DIS '26)[21% acceptance rate]"
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: "http://jeffreybasoah.github.io/files/HopefulFuture.pdf"
 citation: #"Basoah, J., Reinecke, K., Rosner, D., & Ogbonnaya-Ogburu, I. Hopeful Failure: How Collaborative Design Fiction Reimagines AI. Under review for the ACM CHI Conference on Human Factors in Computing Systems (CHI '25)."
