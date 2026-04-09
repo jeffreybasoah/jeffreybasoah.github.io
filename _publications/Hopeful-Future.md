@@ -4,7 +4,7 @@ authors: <span style="color:#7851A9; font-weight:bold;">Jeffrey Basoah</span>, <
 collection: publications
 category: conferences
 permalink: /publication/HopefulFuture
-excerpt: "How do Black Americans imagine futures with AI — and what do those imaginings reveal about the technology's limits? In two collaborative design fiction workshops, 10 Black American participants used Exquisite Tellings, a turn-based storytelling method, to co-author speculative narratives about AI. Participants consistently imagined moments of technological failure — not as endpoints, but as openings. These failures surfaced resourcefulness, community, and capacities that automation had obscured. We call this pattern hopeful failure: the idea that where AI falls short, broader social possibilities emerge."
+excerpt: "In two collaborative design fiction workshops, 10 Black American participants — each with prior experience using AI writing tools — used Exquisite Tellings, a turn-based storytelling method, to co-author speculative narratives about AI. Participants consistently imagined moments of technological failure — not as endpoints, but as openings. These failures surfaced resourcefulness, community, and capacities that automation had obscured. We call this pattern hopeful failure: the idea that where AI falls short, broader social possibilities emerge."
 date: "2025-04-28"
 show_date: false
 venue: "Conditionally Accepted" #ACM SIGCHI Designing Interactive Systems Conference (DIS '26)"
