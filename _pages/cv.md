@@ -14,9 +14,9 @@ Education
 ======
 * **Ph.D in Human-Centered Design and Engineering**, University of Washington, *2027 (Expected)*<br>
 Concentration: Human-Computer Interaction, AI/ML Fairness<br>
-Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
+Co-Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
 * **M.S. in Human-Centered Design and Engineering**, University of Washington, *2025*<br>
-Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
+Co-Advised by Dr. Daniela K. Rosner and Dr. Katharina Reinecke<br>
 * **M.S. in Systems Engineering**, University of Virginia, *2022*<br>
 Thesis: “The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy, and Systems Thinking Learning”
 Advised by Dr. William Scherer<br>
@@ -31,48 +31,45 @@ Research Experience
 
 * Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs
 
-  * As large language models (LLMs) increasingly adapt and personalize to diverse sets of users, there is an increased risk of systems appropriating sociolects, i.e., language styles or dialects that are associated with specific minoritized lived experiences (e.g., African American English, Queer slang). In this work, we examine whether sociolect usage by an LLM agent affects user reliance on its outputs and user perception (satisfaction, frustration, trust, and social presence). We designed and conducted user studies where 498 African American English (AAE) speakers and 487 Queer slang speakers performed a set of question-answering tasks with LLM-based suggestions in either standard American English (SAE) or their self-identified sociolect. 
-
-    * Results suggest that both AAE and Queer slang speakers relied more on the SAE agent, and had more positive perceptions of the SAE agent. Yet, only Queer slang speakers felt more social presence from the Queer slang agent over the SAE one, whereas only AAE speakers preferred and trusted the SAE agent over the AAE one.
-    * These findings emphasize the need to test for behavioral outcomes rather than simply assuming that personalization would leave to better and safer reliance outcome.
-
+  * Designed and executed two large-scale user studies (n=985) examining whether LLM sociolect usage affects user reliance and perception among African American English (AAE) and Queer slang speakers.
+  * Recruited and coordinated 498 AAE speakers and 487 Queer slang speakers across counterbalanced question-answering tasks comparing LLM agents in Standard American English (SAE) vs. self-identified sociolect conditions.
+  * Found that both AAE and Queer slang speakers relied more on and held more positive perceptions of the SAE agent, while Queer slang speakers uniquely reported greater social presence from the sociolect agent, surfacing meaningful divergence across minoritized communities.
+  * Demonstrated the need to measure behavioral outcomes rather than assuming personalization leads to improved reliance and safety, challenging a dominant assumption in adaptive AI design.
 
 * Hopeful Failure: How Collaborative Design Fiction Reimagines AI
 
-  * While AI development is expanding, marginalized communities are often excluded from shaping its future. This study explores how Black American participants envision AI through collaborative storytelling, focusing on hopes, concerns, and social impacts. Using the "Exquisite Tellings" method, we held design fiction workshops with 10 participants, uncovering themes of reliance, autonomy, and cultural nuance in AI. 
-
-    *	This work introduces "Exquisite Tellings," a participatory storytelling method that expands inclusivity in HCI
-    *	We identify five engagement axes with AI, blending acceptance and resistance, moving beyond simple optimism or pessimism.
-    *	We develop a collective approach to design fiction, balancing individual agency with shared imagination to envision alternative AI futures
+  *	Developed "Exquisite Tellings," a novel participatory storytelling method, and facilitated collaborative design fiction workshops with 10 Black American participants to center marginalized voices in speculative AI futures.
+  * Synthesized workshop narratives to surface five engagement axes with AI that blend acceptance and resistance, moving beyond binary optimism/pessimism framings dominant in prior HCI and futures research.
+  *	Demonstrated that collective design fiction, balancing individual agency with shared imagination, can generate community-centered visions of AI that reflect the complexity of marginalized communities' lived experiences.
+  *	Introduced a replicable methodological contribution to participatory HCI, expanding the toolkit available for inclusive speculative design research.
+  *	Accepted to ACM Designing Interactive Systems (DIS 2026); 26.8% acceptance rate.
 
 * Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users
 
-  * Although much research has examined bias in large language models, studies on how Black American users experience everyday interactions with NLP tools are still emerging. This study explores the expectations, apprehensions, and perceptions of Black American users regarding AI-supported writing technology. We conducted semi-structured virtual interviews with 13 participants, followed by a remote-moderated user study of word processing software (Google Docs) and large language models (ChatGPT).
-
-    *	Our findings document Black American users' experiences with AI-supported writing technologies, complementing existing literature on large language model’s limitations in language technology
-    *	Unlike prior studies, our work revealed a novel concern: the potential for the gradual erasure of Black American culture as future generations increasingly depend on AI for information—a critical perspective that has not been thoroughly examined in existing HCI research
+  *	Designed and conducted a two-phase qualitative study examining how Black American users experience AI-supported writing technologies, combining 13 semi-structured interviews with a remote-moderated user study of Google Docs and ChatGPT.
+  * Synthesized findings across participants to document expectations, apprehensions, and perceptions of NLP tools among Black American users, contributing empirical grounding to an underexamined population in HCI research.
+  * Uncovered a novel concern absent from prior literature: the potential for AI-driven gradual erasure of Black American cultural expression as future generations increasingly depend on AI for information.
+  * Published in Proceedings of the ACM on Human-Computer Interaction (CSCW 2025); journal-style peer review with an effective selectivity of ~15–20%.
 
 **The Sports Analytics Club Program**<br>
 *Mixed-Methods Researcher (February 2021 – May 2022)*<br>
 
 * The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy and Systems Thinking Learning 
 
-  * The study aimed to integrate sports cases into STEM courses to foster increased student engagement of an underrepresented demographic in the STEM field. 
-
-    *	Designed user surveys utilizing Qualtrics to gather preliminary data on academic engagement, self-efficacy, expectancy, value, and cost to understand influence of sports on students learning experience
-    *	Conducted qualitative usability tests with 2 classrooms to assess correlation and impact of sports-related topics in student learning experiences, aligning case development with student feedback 
-    *	Communicated survey findings and insights to interdisciplinary team for further evaluation of future case development process, ensuring roadmap addresses all 4 stakeholder goals and relevant metrics are being measured
+  * Designed and deployed Qualtrics surveys across multiple classrooms to measure academic engagement, self-efficacy, expectancy, value, and cost among underrepresented STEM students, generating preliminary data to guide sports-integrated curriculum development. 
+  * Conducted qualitative usability tests with 2 classrooms to assess the impact of sports-related case studies on student learning experiences, directly aligning case development iterations with student feedback. 
+  * Synthesized mixed-methods findings and communicated insights to an interdisciplinary research team, ensuring the curriculum development roadmap addressed all 4 stakeholder goals and tracked relevant engagement metrics. 
+  * Accepted to Springer Nature CAC 2026 proceedings
 
 **Monumental Sports and Entertainment**<br>
 *Data Analyst (January 2021 – March 2021)*<br>
 
 * Fired Fairly? Examining Racial Disparities in NCAA Football Coaching Positions 
 
-  * The study addresses a notable racial imbalance in college football, where African Americans constitute nearly 50% of FBS players but hold less than 10% of head coaching positions. 
+  * Identified and framed a critical racial imbalance in college football — where African Americans constitute nearly 50% of FBS players but hold less than 10% of head coaching positions — and designed a large-scale quantitative study to examine whether racial bias drives minority coach firing decisions.
+  * Applied classical and exploratory data analysis techniques including linear regression, binary regression, ANOVA, and T-tests to a longitudinal dataset of 200 NCAA coaches spanning a decade, using Minitab for hypothesis testing and regression model construction.
+  * Synthesized complex statistical findings into accessible data visualizations and presented results to 20 MBA executives in an educational workshop, communicating evidence of racial bias in NCAA coaching hiring and firing practices.
 
-    *	Applied both classical and exploratory data analysis techniques, including linear regression, binary regression, ANOVA, and T-tests, to perform large-scale complex analysis into whether racial bias was present in firing minority coaches in the NCAA
-    *	Employed Minitab to analyze a large-scale longitudinal dataset of 200 NCAA coaches over past decade for hypothesis testing and regression model construction
-    *	Communicated findings to 20 MBA Executives in an educational workshop utilizing data visualizations, leading to understanding results of racial bias in hiring minority coaches 
 
 Publications
 ======
