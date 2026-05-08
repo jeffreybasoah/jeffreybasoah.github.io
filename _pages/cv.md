@@ -26,7 +26,7 @@ Minor: Green Engineering<br>
 Research Experience
 ======
 
-**TAT Lab x Wildlab @ University of Washington**<br>
+**Tactile and Tactical Design Lab x Wildlab @ University of Washington**<br>
 *Graduate Research Assistant (September 2022 – Present)*<br>
 
 * Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs
@@ -35,6 +35,7 @@ Research Experience
   * Recruited and coordinated 498 AAE speakers and 487 Queer slang speakers across counterbalanced question-answering tasks comparing LLM agents in Standard American English (SAE) vs. self-identified sociolect conditions.
   * Found that both AAE and Queer slang speakers relied more on and held more positive perceptions of the SAE agent, while Queer slang speakers uniquely reported greater social presence from the sociolect agent, surfacing meaningful divergence across minoritized communities.
   * Demonstrated the need to measure behavioral outcomes rather than assuming personalization leads to improved reliance and safety, challenging a dominant assumption in adaptive AI design.
+  * Published in *Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency* (FAccT '25); 26.8% acceptance rate.
 
 * Hopeful Failure: How Collaborative Design Fiction Reimagines AI
 
@@ -42,7 +43,7 @@ Research Experience
   * Synthesized workshop narratives to surface five engagement axes with AI that blend acceptance and resistance, moving beyond binary optimism/pessimism framings dominant in prior HCI and futures research.
   *	Demonstrated that collective design fiction, balancing individual agency with shared imagination, can generate community-centered visions of AI that reflect the complexity of marginalized communities' lived experiences.
   *	Introduced a replicable methodological contribution to participatory HCI, expanding the toolkit available for inclusive speculative design research.
-  *	Accepted to ACM Designing Interactive Systems (DIS 2026); 26.8% acceptance rate.
+  *	Accepted to ACM Designing Interactive Systems (DIS 2026); 21% acceptance rate.
 
 * Should AI Mimic People? Understanding AI-Supported Writing Technology Among Black Users
 
@@ -137,22 +138,33 @@ Work experience
 Grants
 ======
 
-*2023*	
+*2026*
 
-* University of Washington Human Centered Design & Engineering Diversity, Equity, and Inclusion Grant – *Awarded $700*
-  * Support grassroots diversity, equity, and inclusion initiatives within the department. Proposals can cover a wide range of community building, group training, and other DEI-related efforts
-* University of Washington Human Centered Design & Engineering Doctoral Research Grant – *Awarded $1340*
-  * Designed to support HCDE PhD students who need assistance to carry out research that advances their progress toward their degree
+* University of Washington Human Centered Design & Engineering Diversity, Equity, and Inclusion Grant – *Awarded ~$400*
+  * Support grassroots diversity, equity, and inclusion initiatives within the department. Proposals can cover a wide range of community building, group training, and other DEI-related efforts.
+
+*2023*
+
+* University of Washington Human Centered Design & Engineering Diversity, Equity, and Inclusion Grant – *Awarded ~$700*
+  * Support grassroots diversity, equity, and inclusion initiatives within the department. Proposals can cover a wide range of community building, group training, and other DEI-related efforts.
+* University of Washington Human Centered Design & Engineering Doctoral Research Grant – *Awarded ~$1,400*
+  * Designed to support HCDE PhD students who need assistance to carry out research that advances their progress toward their degree.
 
 Teaching Experience
 ======
 
 *Graduate Teaching Assistant*<br>
 
+University of Washington - CSE 581: Computer Ethics (Winter 2026)<br>
+
+*	Facilitated weekly graduate-level seminar discussions on ethics in computing, engaging students across CS, HCDE, and information science in critical analysis of algorithmic fairness, AI accountability, and responsible technology design.
+*	Mentored 6+ student research teams through a quarter-long independent ethics research project, guiding proposal development, research design, and fairness/justice-oriented analysis culminating in a publishable-style paper (4–6 pages) and poster presentation.
+*	Provided formative feedback on student work at the intersection of technical systems and social impact, drawing on ongoing scholarship in AI sociolinguistic bias and minoritized user experiences to ground seminar discussions in active scholarship.
+
 University of Washington - HCDE492: Capstone Planning (Winter 2024), Senior Capstone (Spring 2024, Spring 2025)<br>
 
 *	Facilitated discussions and group activities during class sessions for over 70 students to enhance learning and engagement
-*	Served as a mentor for 4 4 person industry-sponsored capstone groups over the course of two quarters, promoting academic integrity, professionalism, and ethical practices
+*	Served as a mentor for 4 4-person industry-sponsored capstone groups over the course of two quarters, promoting academic integrity, professionalism, and ethical practices
 *	Conducted review sessions and provided guidance to students on course concepts, assignments, and capstone milestones
 
 University of Virginia - SYS3034: System Evaluation (Spring 2021, Spring 2022)<br>
@@ -169,6 +181,7 @@ University of Virginia - SYS6001:  Intro to Systems Analysis & Design (Fall 2021
 Honors and Awards
 ======
 
+*2025*&emsp;	  AFCEA Ralph W. Shrader Graduate Scholarship<br>
 *2024*&emsp;	  Social Action Term Fellowship in Human-Centered Design & Engineering<br>
 *2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design& Engineering<br>
 *2022*&emsp;	  University of Washington College of Engineering Dean’s Fellowship<br>
@@ -183,6 +196,9 @@ Honors and Awards
 Invited Talks and Panels
 ======
 
+*2026*&emsp;	Guest Lecture – Inclusive Design and Engineering (Winter Quarter)<br>
+*2025*&emsp;	Guest Lecture – Inclusive Design and Engineering (Winter Quarter)<br>
+*2024*&emsp;	Guest Lecture – Inclusive Design and Engineering (Winter Quarter)<br>
 *2022*&emsp;	Presenter - The 18th International Conference on Frontiers in Education: Computer Science & Computer Engineering<br>
 *2021*&emsp;	Panelist - Navigating & Maximizing Professional Conferences<br>
 *2021*&emsp;	Presenter - Darden Executive MBA Course: Data Analytics and Leadership Judgment in Sports<br>
@@ -193,10 +209,10 @@ Leadership
 *2022 - Present*&emsp;	Design Lead and Mentor - A Vision for Engineering Literacy & Access (AVELA)<br>
 *2022 – 2023*&emsp;	Professional Development Program Committee Member – National Society of Black Engineers (UoW)<br>
 *2021 - 2022*&emsp;	Program Assistant - Men/Women of Color, Honor, and Ambition (M.O.C.H.A/W.O.C.H.A)<br>
-*Est. 2017*&emsp;		Co-Founder, Board of Director – Acquiring Knowledge for Transcendence, Inc. (Non-Profit)<br>
+*2017 - Present*&emsp;		Co-Founder, Board of Director – Acquiring Knowledge for Transcendence, Inc. (Non-Profit)<br>
 *2015 – 2016*&emsp;	Senator – National Society of Black Engineers (Virginia Tech)<br>
 
-Professional & Serivce Activities
+Professional & Service Activities
 ======
 
 *Department Service*
@@ -205,7 +221,7 @@ Professional & Serivce Activities
 *2023 - Present*&emsp;	PhD Student Ambassador, University of Washington Human-Centered Design & Engineering<br>
 *2023*&emsp;		PhD Admissions Review Committee, University of Washington Human-Centered Design & Engineering<br>
 
-Involvement and Comunity Engagement
+Involvement and Community Engagement
 ======
 
 *2022 - Present*&emsp; 	Member/ Outreaching Grad - Graduate Student Equity & Excellence (GSEE) – University of Washington<br>
@@ -215,6 +231,8 @@ Involvement and Comunity Engagement
 Conferences
 ======
 
+*2026*&emsp;	ACM Designing Interactive Systems (DIS 2026)<br>
+*2025*&emsp;	The 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2025)<br>
 *2023*&emsp;	ACM Conference on Human Factors in Computing Systems (CHI)<br>
 *2022*&emsp;	The 18th International Conference on Frontiers in Education: Computer Science & Computer Engineering<br>
 *2022*&emsp;	GEM Annual Board Meeting and Conference<br>
@@ -234,10 +252,13 @@ Skills
   * Semi Structured Interviews
   * Remote Moderated Usability Testing
   * Heuristic Evaluation
+  * Usability Testing
   * Affinity Mapping
   * Experimental Design
   * Stakeholder Walkthrough
   * Survey Design
+  * Participatory Design / Co-Design Facilitation
+  * Thematic Analysis
 * Quantitative Research
   * Linear Regression
   * Binary Regression
@@ -246,7 +267,18 @@ Skills
   * ANOVA
   * T-Test
   * Correlation
-* Software Skills
+  * Power Analysis
+  * Within-Subjects Experimental Design
+  * Between-Subjects Experimental Design
+  * Psychometric Scale Development and Adaptation
+* Project Management
+  * Multi-Phase Study Design and Execution
+  * Research Timeline and Milestone Management
+  * Cross-Institutional Research Collaboration
+  * Grant Writing and Reporting
+  * Research Budget Management
+  * Stakeholder Communication and Research Translation
+* Analytical Tools
   * Minitab 
   * Tableau 
   * Power BI 
@@ -255,6 +287,9 @@ Skills
   * Advanced Microsoft Excel
 * Programming Languages
   * R/RStudio 
+  * LaTeX
+
+
 
 <!-- Talks
 ======

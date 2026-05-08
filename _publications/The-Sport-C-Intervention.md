@@ -7,10 +7,12 @@ permalink: /publication/TheSportCIntervention
 excerpt: "The SPORT-C intervention integrates sports, systems thinking, and case-based learning to make STEM education more engaging and culturally relevant for underrepresented students. A pilot study suggests this approach boosts student motivation and engagement in STEM subjects."
 date: "2023-06-19"
 show_date: false
-venue: "18th International Conference on Frontiers in Education: Computer Science & Computer Engineering (FECS'22) [Accepted, awaiting publication]"
+venue: "Proceedings of the 2026 International Conference on Applied Computing (CAC 2026)"
 slidesurl: "http://jeffreybasoah.github.io/files/CSCEPresentationDraft.pdf"
 paperurl: "https://arxiv.org/abs/2307.11755"
-citation: "Basoah, J., Scherer, W., Boyd-Sinkler, K., & Bailey, R. (2023, June 19). The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy and Systems Thinking Learning. 18th International Conference on Frontiers in Education: Computer Science & Computer Engineering (FECS'22). [Accepted, awaiting publication]"
+citation: "Basoah, J., Scherer, W., Boyd-Sinkler, K., & Bailey, R. (in press). The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy, and Systems Thinking Learning. In H. R. Arabnia (Ed.), Proceedings of the 2026 International Conference on Applied Computing (CAC 2026). Springer Nature. https://doi.org/10.48550/arXiv.2307.11755"
+
+
 
 ---
 
