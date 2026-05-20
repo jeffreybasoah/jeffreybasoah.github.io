@@ -23,6 +23,21 @@ Advised by Dr. William Scherer<br>
 * **B.S. in Mechanical Engineering**, Virginia Polytechnic Institute and State University, *2018*<br>
 Minor: Green Engineering<br>
 
+Honors and Awards
+======
+
+*2025*&emsp;	  AFCEA Ralph W. Shrader Graduate Scholarship<br>
+*2024*&emsp;	  Social Action Term Fellowship in Human-Centered Design & Engineering<br>
+*2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design& Engineering<br>
+*2022*&emsp;	  University of Washington College of Engineering Dean’s Fellowship<br>
+*2022*&emsp;	  GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
+*2022*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and IBM – Ph.D.<br>
+*2021*&emsp;	  Inclusive Excellence Fellow<br>
+*2021*&emsp;	  National Society of Black Engineers Honors APEx Member<br>
+*2020*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and Intel – M.S.<br>
+*2020*&emsp;	  Intel Scholar<br>
+*2013*&emsp;	  Virginia Tech Presidential Scholarship Initiative Recipient<br>
+
 Research Experience
 ======
 
@@ -140,6 +155,8 @@ Grants
 
 *2026*
 
+* University of Washington Human Centered Design & Engineering Doctoral Research Grant – *Awarded ~$400*
+  * Designed to support HCDE PhD students who need assistance to carry out research that advances their progress toward their degree.
 * University of Washington Human Centered Design & Engineering Diversity, Equity, and Inclusion Grant – *Awarded ~$400*
   * Support grassroots diversity, equity, and inclusion initiatives within the department. Proposals can cover a wide range of community building, group training, and other DEI-related efforts.
 
@@ -155,43 +172,28 @@ Teaching Experience
 
 *Graduate Teaching Assistant*<br>
 
-University of Washington - CSE 581: Computer Ethics (Winter 2026)<br>
+CSE 581: Computer Ethics (Winter 2026) - University of Washington<br>
 
 *	Facilitated weekly graduate-level seminar discussions on ethics in computing, engaging students across CS, HCDE, and information science in critical analysis of algorithmic fairness, AI accountability, and responsible technology design.
 *	Mentored 6+ student research teams through a quarter-long independent ethics research project, guiding proposal development, research design, and fairness/justice-oriented analysis culminating in a publishable-style paper (4–6 pages) and poster presentation.
 *	Provided formative feedback on student work at the intersection of technical systems and social impact, drawing on ongoing scholarship in AI sociolinguistic bias and minoritized user experiences to ground seminar discussions in active scholarship.
 
-University of Washington - HCDE492: Capstone Planning (Winter 2024), Senior Capstone (Spring 2024, Spring 2025)<br>
+HCDE492: Capstone Planning (Winter 2024), HCDE493: Senior Capstone (Spring 2024, Spring 2025) - University of Washington<br>
 
 *	Facilitated discussions and group activities during class sessions for over 70 students to enhance learning and engagement
 *	Served as a mentor for 4 4-person industry-sponsored capstone groups over the course of two quarters, promoting academic integrity, professionalism, and ethical practices
 *	Conducted review sessions and provided guidance to students on course concepts, assignments, and capstone milestones
 
-University of Virginia - SYS3034: System Evaluation (Spring 2021, Spring 2022)<br>
+SYS3034: System Evaluation (Spring 2021, Spring 2022) - University of Virginia<br>
 
 *	Provided academic support and instruction to 60 students in undergraduate level course
 *	Facilitated classroom discussion sessions and held weekly office hours to provide tutoring, counseling, or assistance to students in need
 *	Contributed to the development of appropriate teaching materials to ensure content and methods of delivery met learning objectives
 
-University of Virginia - SYS6001:  Intro to Systems Analysis & Design (Fall 2021)<br>
+SYS6001:  Intro to Systems Analysis & Design (Fall 2021) - University of Virginia<br>
 
 *	Delivered comprehensive academic support and instruction to a cohort of 30 graduate-level students, ensuring a conducive learning environment and fostering intellectual growth.
 *	Collaborated with faculty members to facilitate lectures, evaluate student performance, and conduct grading assessments, contributing to the overall success of the instructional team.
-
-Honors and Awards
-======
-
-*2025*&emsp;	  AFCEA Ralph W. Shrader Graduate Scholarship<br>
-*2024*&emsp;	  Social Action Term Fellowship in Human-Centered Design & Engineering<br>
-*2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design& Engineering<br>
-*2022*&emsp;	  University of Washington College of Engineering Dean’s Fellowship<br>
-*2022*&emsp;	  GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
-*2022*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and IBM – Ph.D.<br>
-*2021*&emsp;	  Inclusive Excellence Fellow<br>
-*2021*&emsp;	  National Society of Black Engineers Honors APEx Member<br>
-*2020*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and Intel – M.S.<br>
-*2020*&emsp;	  Intel Scholar<br>
-*2013*&emsp;	  Virginia Tech Presidential Scholarship Initiative Recipient<br>
 
 Invited Talks and Panels
 ======
