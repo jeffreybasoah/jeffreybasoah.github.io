@@ -89,9 +89,21 @@ Research Experience
 
 Publications
 ======
+<style>
+  .cv-publications .list__item {
+    padding-right: 100px !important;
+  }
+  @media (min-width: 925px) {
+    .cv-publications .list__item {
+      padding-right: 150px !important;
+    }
+  }
+</style>
+<div class="cv-publications">
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+</div>
 
 Work experience
 ======
