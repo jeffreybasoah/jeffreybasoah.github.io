@@ -18,7 +18,7 @@ show_date: false
 venue: "ACM Conference on Fairness, Accountability, and Transparency (FAccT ’25) [26.8% acceptance rate]"
 slidesurl: "http://jeffreybasoah.github.io/files/NotLikeUsPresentation.pdf"
 paperurl: "https://dl.acm.org/doi/10.1145/3715275.3732045"
-citation: "Jeffrey Basoah, Daniel Chechelnitsky, Tao Long, Katharina Reinecke, Chrysoula Zerva, Kaitlyn Zhou, Mark Díaz, and Maarten Sap. 2025. Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’25). Association for Computing Machinery, New York, NY, USA, 710–745."
+citation: "Basoah, J., Chechelnitsky, D., Long, T., Reinecke, K., Zerva, C., Zhou, K., Díaz, M., and Sap, M. 2025. Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT ’25). Association for Computing Machinery, New York, NY, USA, 710–745. https://doi.org/10.1145/3715275.3732045"
 ---
 
 

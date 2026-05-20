@@ -10,7 +10,7 @@ show_date: false
 venue: "Proceedings of the 2026 International Conference on Applied Computing (CAC 2026)"
 slidesurl: "http://jeffreybasoah.github.io/files/CSCEPresentationDraft.pdf"
 paperurl: "https://arxiv.org/abs/2307.11755"
-citation: "Basoah, J., Scherer, W., Boyd-Sinkler, K., & Bailey, R. (in press). The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy, and Systems Thinking Learning. In H. R. Arabnia (Ed.), Proceedings of the 2026 International Conference on Applied Computing (CAC 2026). Springer Nature. https://doi.org/10.48550/arXiv.2307.11755"
+citation: "Basoah, J., Scherer, W., Boyd-Sinkler, K., and Bailey, R. In press. The SPORT-C Intervention: An Integration of Sports, Case-Based Pedagogy, and Systems Thinking Learning. In H. R. Arabia (Ed.), Proceedings of the 2026 International Conference on Applied Computing (CAC 2026). Springer Nature. https://doi.org/10.48550/arXiv.2307.11755"
 
 
 
