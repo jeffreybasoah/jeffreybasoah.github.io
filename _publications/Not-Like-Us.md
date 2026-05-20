@@ -12,7 +12,7 @@ authors: >-
 collection: publications
 category: conferences
 permalink: /publication/NotLikeUs
-excerpt: "As LLMs adapt to diverse users, they risk appropriating sociolects…"
+excerpt: "This paper examines how large language models (LLMs) adapting to minoritized sociolects shape user trust, perception, and behavioral reliance. Across studies with African American English and Queer slang speakers, findings reveal that sociolect personalization does not necessarily improve user experience, highlighting the complex cultural and ethical tensions surrounding linguistic adaptation in AI systems."
 date: "2025-06-23"
 show_date: false
 venue: "ACM Conference on Fairness, Accountability, and Transparency (FAccT ’25) [26.8% acceptance rate]"
