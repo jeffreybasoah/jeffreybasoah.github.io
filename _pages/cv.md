@@ -28,7 +28,7 @@ Honors and Awards
 
 *2025*&emsp;	  AFCEA Ralph W. Shrader Graduate Scholarship<br>
 *2024*&emsp;	  Social Action Term Fellowship in Human-Centered Design & Engineering<br>
-*2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design& Engineering<br>
+*2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design & Engineering<br>
 *2022*&emsp;	  University of Washington College of Engineering Dean’s Fellowship<br>
 *2022*&emsp;	  GOMAP Top Off Award, Graduate Student Equity & Excellence (GSEE)<br>
 *2022*&emsp;	  GEM Full Engineering Fellow, The National GEM Consortium and IBM – Ph.D.<br>
@@ -220,8 +220,8 @@ Invited Talks and Panels
 
 Leadership
 ======
-*2022 - Present*&emsp;	Design Lead and Mentor - A Vision for Engineering Literacy & Access (AVELA)<br>
-*2022 – 2023*&emsp;	Professional Development Program Committee Member – National Society of Black Engineers (UoW)<br>
+*2022 - Present*&emsp;	Design Team Lead - A Vision for Engineering Literacy & Access (AVELA)<br>
+*2022 – 2023*&emsp;	Professional Development Program Committee Member - National Society of Black Engineers (NSBE)<br>
 *2021 - 2022*&emsp;	Program Assistant - Men/Women of Color, Honor, and Ambition (M.O.C.H.A/W.O.C.H.A)<br>
 *2017 - Present*&emsp;		Co-Founder, Board of Director – Acquiring Knowledge for Transcendence, Inc. (Non-Profit)<br>
 *2015 – 2016*&emsp;	Senator – National Society of Black Engineers (Virginia Tech)<br>
@@ -247,7 +247,9 @@ Conferences
 
 *2026*&emsp;	ACM Designing Interactive Systems (DIS 2026)<br>
 *2025*&emsp;	The 28th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2025)<br>
-*2023*&emsp;	ACM Conference on Human Factors in Computing Systems (CHI)<br>
+*2025*&emsp;	ACM Conference on Fairness, Accountability, and Transparency (FAccT 2025)<br>
+*2025*&emsp;	AAAI/ACM Conference on AI, Ethics, and Society (AIES 2025)<br>
+*2023*&emsp;	ACM Conference on Human Factors in Computing Systems (CHI 2023)<br>
 *2022*&emsp;	The 18th International Conference on Frontiers in Education: Computer Science & Computer Engineering<br>
 *2022*&emsp;	GEM Annual Board Meeting and Conference<br>
 *2022*&emsp;	NSBE National Convention<br>
