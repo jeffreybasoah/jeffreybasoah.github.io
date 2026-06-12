@@ -9,7 +9,7 @@ date: "2026-06-13"
 show_date: false
 venue: "ACM SIGCHI Designing Interactive Systems Conference (DIS '26) [21% acceptance rate]"
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
-paperurl: "http://jeffreybasoah.github.io/files/HopefulFailure.pdf" #https://doi.org/10.1145/3800645.3813092
+paperurl: "https://dl.acm.org/doi/10.1145/3800645.3813092"
 citation: "Basoah, J., Reinecke, K., Rosner, D., and Ogbonnaya-Ogburu, I. F. 2026. Hopeful Failure: How Collaborative Design Fiction Reimagines AI. In Proceedings of the 2026 ACM Designing Interactive Systems Conference (DIS ’26). Association for Computing Machinery, New York, NY, USA. https://doi.org/10.1145/3800645.3813092"
 ---
 
