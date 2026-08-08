@@ -1,0 +1,15 @@
+{
+  "name": "Jekyll (GitHub Pages)",
+  "image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {}
+  },
+  "postCreateCommand": "bundle install && npm install -g @anthropic-ai/claude-code",
+  "forwardPorts": [4000],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll site",
+      "onAutoForward": "openBrowser"
+    }
+  }
+}
