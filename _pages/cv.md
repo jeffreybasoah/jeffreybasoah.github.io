@@ -210,6 +210,7 @@ SYS6001:  Intro to Systems Analysis & Design (Fall 2021) - University of Virgini
 Invited Talks and Panels
 ======
 
+*2021*&emsp;	Panelist - Stealing My Magic: Data, Agency, and the Future of Black Communities in the AI Era (Seattle Black Nerd Festival)<br>
 *2026*&emsp;	Guest Lecture – Inclusive Design and Engineering (Winter Quarter)<br>
 *2025*&emsp;	Guest Lecture – Inclusive Design and Engineering (Winter Quarter)<br>
 *2024*&emsp;	Guest Lecture – Inclusive Design and Engineering (Winter Quarter)<br>
