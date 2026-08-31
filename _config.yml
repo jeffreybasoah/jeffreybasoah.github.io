@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Jeffrey Basoah"
 title_separator          : "-"
-name                     : &name "Ph.D. Student at the Unviersity of Washington"
-description              : &description "personal description"
+name                     : &name "Ph.D. Student at the University of Washington"
+description              : &description "Personal academic website of Jeffrey Basoah, Ph.D. candidate researching AI fairness and human-computer interaction at the University of Washington."
 url                      : https://jeffreybasoah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jeffreybasosh/jeffreybasoah.github.io"
+repository               : "jeffreybasoah/jeffreybasoah.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jeffrey Basoah"
   pronouns         : "he/him"  
-  bio              : #"I am a third-year Ph.D. student in Human-Centered Design & Engineering at the University of Washington, specializing in Human-Computer Interaction and AI/ML fairness. In the Tactile and Tactical Design Lab and Wildlab, I research fairness and inclusivity in AI, focusing on how intelligent systems interact with underrepresented communities, especially Black Americans."
+  bio              : "I am a fourth-year Ph.D. candidate and GEM Fellow in Human-Centered Design & Engineering at the University of Washington, specializing in Human-Computer Interaction and AI/ML fairness. In the Tactile and Tactical Design Lab and Wildlab, I research fairness and inclusivity in AI, focusing on how intelligent systems interact with underrepresented communities, especially Black Americans."
   location         : "Seattle, Washington"
   employer         : "University of Washington"
   uri              : #"GEM Fellow"

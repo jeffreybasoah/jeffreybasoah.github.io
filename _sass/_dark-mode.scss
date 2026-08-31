@@ -1,0 +1,211 @@
+/* ==========================================================================
+   DARK MODE
+
+   Applied when <html data-theme="dark">. Set by assets/js/theme-toggle.js
+   (persisted to localStorage) and by the inline script in _includes/head.html
+   (initial page load, based on saved preference or OS setting).
+   ========================================================================== */
+
+$dm-bg              : #1b1b1d;
+$dm-surface         : #242427;
+$dm-surface-alt     : #2c2c30;
+$dm-text            : #e4e4e6;
+$dm-text-muted      : #a8a8ac;
+$dm-border          : #3a3a3f;
+$dm-link            : #6ec8ff;
+$dm-link-hover      : mix(#fff, $dm-link, 20%);
+
+html[data-theme="dark"] {
+  background-color: $dm-bg;
+
+  body {
+    background-color: $dm-bg;
+    color: $dm-text;
+  }
+
+  a {
+    color: $dm-link;
+
+    &:hover {
+      color: $dm-link-hover;
+    }
+  }
+
+  hr {
+    border-top-color: $dm-border;
+  }
+
+  figcaption {
+    color: $dm-text-muted;
+  }
+
+  /* Masthead / primary navigation
+     ========================================================================== */
+
+  .masthead {
+    background: $dm-surface;
+    border-bottom-color: $dm-border;
+  }
+
+  .greedy-nav {
+    background: $dm-surface;
+
+    a {
+      color: $dm-text;
+    }
+
+    .hidden-links {
+      background: $dm-surface;
+      border-color: $dm-border;
+      box-shadow: 0 0 10px rgba(#000, 0.5);
+
+      a {
+        &:hover {
+          color: #fff;
+          background: mix($dm-surface, $primary-color, 40%);
+        }
+      }
+
+      &:before {
+        border-color: $dm-border transparent;
+      }
+
+      &:after {
+        border-color: $dm-surface transparent;
+      }
+
+      li {
+        border-bottom-color: $dm-border;
+      }
+    }
+  }
+
+  /* Sidebar / author profile
+     ========================================================================== */
+
+  .author__avatar img {
+    border-color: $dm-border;
+  }
+
+  .author__urls-wrapper {
+    .author__urls {
+      background: $dm-surface;
+      border-color: $dm-border;
+      box-shadow: 0 0 10px rgba(#000, 0.5);
+
+      &:before {
+        border-color: $dm-border transparent;
+      }
+
+      &:after {
+        border-color: $dm-surface transparent;
+      }
+    }
+  }
+
+  /* Content
+     ========================================================================== */
+
+  .page__content,
+  .page__hero {
+    h1, h2, h3, h4, h5, h6 {
+      border-bottom-color: $dm-border;
+    }
+  }
+
+  .archive__item,
+  .list__item {
+    border-bottom-color: $dm-border;
+  }
+
+  .pagination li a {
+    background-color: $dm-surface;
+    border-color: $dm-border;
+    color: $dm-text;
+
+    &.current {
+      background-color: $primary-color;
+      color: #fff;
+    }
+  }
+
+  /* Notices
+     ========================================================================== */
+
+  .notice,
+  .notice--primary {
+    background-color: mix(#000, $primary-color, 75%);
+  }
+
+  .notice--info {
+    background-color: mix(#000, $info-color, 75%);
+  }
+
+  .notice--warning {
+    background-color: mix(#000, $warning-color, 70%);
+  }
+
+  .notice--success {
+    background-color: mix(#000, $success-color, 75%);
+  }
+
+  .notice--danger {
+    background-color: mix(#000, $danger-color, 75%);
+  }
+
+  /* Tables
+     ========================================================================== */
+
+  table {
+    border-color: $dm-border;
+  }
+
+  thead {
+    background-color: $dm-surface-alt;
+    border-bottom-color: $dm-border;
+  }
+
+  th, td {
+    border-color: $dm-border;
+  }
+
+  /* Forms / search
+     ========================================================================== */
+
+  input,
+  textarea,
+  select {
+    background-color: $dm-surface;
+    color: $dm-text;
+    border-color: $dm-border;
+  }
+
+  /* Buttons
+     ========================================================================== */
+
+  .btn--inverse {
+    color: $dm-text !important;
+    background-color: $dm-surface;
+    border-color: $dm-border !important;
+  }
+
+  /* Footer
+     ========================================================================== */
+
+  .page__footer {
+    background-color: $dm-surface;
+    border-top-color: $dm-border;
+    color: $dm-text-muted;
+
+    .fas, .fab, .far, .fal {
+      color: $dm-text-muted;
+    }
+  }
+
+  /* Code blocks (kept close to original styling; only the surrounding
+     border/box-shadow are darkened so token colors stay readable) */
+
+  .highlight {
+    border-color: $dm-border;
+  }
+}
