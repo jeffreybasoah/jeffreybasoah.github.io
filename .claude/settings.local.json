@@ -7,7 +7,14 @@
       "Bash(git remote *)",
       "Bash(git fetch *)",
       "Bash(echo \"exit: $?\")",
-      "Bash(git merge *)"
+      "Bash(git merge *)",
+      "Bash(git ls-remote *)",
+      "Bash(apt list *)",
+      "Bash(git config *)",
+      "Bash(grep -v \"^\\\\./.git/hooks/pre-push$\")",
+      "Bash(sudo apt-get install -y git-lfs)",
+      "Bash(sudo apt-get update)",
+      "Bash(git pull *)"
     ]
   }
 }
