@@ -14,7 +14,15 @@
       "Bash(grep -v \"^\\\\./.git/hooks/pre-push$\")",
       "Bash(sudo apt-get install -y git-lfs)",
       "Bash(sudo apt-get update)",
-      "Bash(git pull *)"
+      "Bash(git pull *)",
+      "WebFetch(domain:direct.mit.edu)",
+      "WebSearch",
+      "WebFetch(domain:www.hcde.washington.edu)",
+      "WebFetch(domain:doi.org)",
+      "Bash(python3 *)",
+      "Bash(pip install *)",
+      "Bash(ruby -ryaml -e ' *)",
+      "Bash(timeout 90 bundle exec jekyll build)"
     ]
   }
 }
