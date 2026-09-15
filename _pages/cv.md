@@ -230,6 +230,11 @@ Leadership
 Professional & Service Activities
 ======
 
+*Reviewer Work*
+
+*2026*&emsp;		ACM Designing Interactive Systems (DIS 2026)<br>
+*2025 - 2026*&emsp;	ACM Conference on Human Factors in Computing Systems (CHI 2026)<br>
+
 *Department Service*
 
 *2024*&emsp;		PhD Admissions Review Committee, University of Washington Human-Centered Design & Engineering<br>
