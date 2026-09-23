@@ -26,6 +26,7 @@ Minor: Green Engineering<br>
 Honors and Awards
 ======
 
+*2025*&emsp;	  DEI Recognition — ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2025)<br>
 *2025*&emsp;	  AFCEA Ralph W. Shrader Graduate Scholarship<br>
 *2024*&emsp;	  Social Action Term Fellowship in Human-Centered Design & Engineering<br>
 *2023*&emsp;	  Neon Blackboard Term Fellowship in Human-Centered Design & Engineering<br>
@@ -101,6 +102,20 @@ Publications
 </style>
 <div class="cv-publications">
   <ul>{% for post in site.publications reversed %}
+    {% if post.category == "articles" %}
+      {% continue %}
+    {% endif %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+</div>
+
+Press and Industry Writing
+======
+<div class="cv-publications">
+  <ul>{% for post in site.publications reversed %}
+    {% if post.category != "articles" %}
+      {% continue %}
+    {% endif %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 </div>
@@ -110,39 +125,44 @@ Work experience
 
 **Microsoft**<br>
 
+*Design Researcher, Intern (June 2026 – September 2026)*<br>
+
+* Uncovered a previously unrecognized pattern in how users delegate work to AI agents across 3 product lines; revealed critical gaps in control, accountability, and human oversight requirements<br>
+* Finding prompted the Cowork and Scout teams to reprioritize human-in-the-loop interactions and informed new thinking on agent-to-person coordination with Microsoft's future of work researchers<br>
+* Shaped the Q2 product roadmap for Cowork and Scout by translating user research into product requirements for human sign-off, ownership, and intervention in higher-stakes AI workflows<br>
+* Extended work beyond the immediate product teams by contributing research principles to Microsoft's organization-wide human-AI collaboration framework, helping establish scalable boundaries for when AI agents should act autonomously versus defer to people<br>
+
 *Design Researcher, Intern (June 2025 – September 2025)*<br>
 
 *	Led foundational research shaping mid- to long-term AI UX strategy for Microsoft's Agent 365 initiative, focusing on risks and design opportunities around personified, agentic AI and AI-powered digital workers<br>
-* Conducted an extensive literature and discourse review spanning over 30 academic research papers and public debate on agentic AI; synthesized insights into a taxonomy of 14 organizational, group, and individual-level risks<br>
-* Mapped each risk to existing and emergent design mitigation tactics, producing a scalable risk-to-mitigation framework that informed BIC's Responsible AI design strategy<br>
-* Conducted 15+ cross-functional interviews with engineers, product managers, and designers to understand perceptions and apprehensions toward agentic AI, uncovering needs for clearer design guardrails and risk literacy.
-* Identified and prioritized the top three critical risks for immediate mitigation, collaborating with the cross-functional Agent 365 team to prototype design principle cards used to guide AI UX teams across BIC<br>
-* Developed strategic recommendations and foresight and presented those findings to BIC's Corporate Vice President, research leadership, global design organization, and the company-wide Aether v-team, influencing the responsible deployment of agentic AI across Microsoft 365 and Dynamics ecosystems<br>
-* Findings were surfaced by Microsoft’s Office of Responsible AI and integrated into early company-wide policy and governance frameworks guiding AI agent design<br>
+* Reviewed 30+ academic research papers and public debate on agentic AI; distilled insights into a taxonomy of 14 organizational, group, and individual-level risks<br>
+* Mapped 14 risks to existing and emergent design mitigation tactics; produced a scalable risk-to-mitigation framework adopted into BIC's Responsible AI design strategy<br>
+* Prioritized 3 critical risks for immediate mitigation; partnered with Agent 365 team to prototype design principle cards deployed to AI UX teams across BIC<br>
+* Presented strategic recommendations to BIC's Corporate Vice President, global design organization, and company-wide Aether v-team; shaped responsible deployment of agentic AI across Microsoft 365 and Dynamics ecosystems<br>
+* Findings were adopted by Microsoft's Office of Responsible AI into company-wide policy and governance frameworks for AI agent design, culminating in a co-authored publication on Microsoft Design: When AI Joins the Team: Three Principles for Responsible Agent Design<br>
 
 
 **IBM Corporation**<br>
 
 *User Experience Researcher, Senior Intern (January 2024 – August 2024)*<br>
 
-*	Initiated and implemented a company-wide program to identify challenges across multiple clients, with a focus on improving user experience and engagement<br>
-* Conducted qualitative research through usability testing to guide design strategies for proprietary product development<br>
-*	Improved product’s UMUX score by 14% amount within a period of 6 months by identifying key areas for improvement and developing a strategic plan encompassing usability testing and design critiques with users to enhance user experience<br>
-*	Informed product team direction by conducting an in-depth qualitative study to identify and uncover new user segments for growth  which influenced the design and development priorities of design iterations of user interfaces and product features<br>
-*	Through my qualitative research I was able to identify a new user group that the development team had not considered as primary users for the product. This led to the creation of a new user segments that influenced the direction we took with product enhancement<br>
+*	Initiated and implemented a company-wide program spanning 6+ client accounts to identify challenges across multiple clients, with a focus on improving user experience and engagement<br>
+* Drove a 14% UMUX score improvement within 6 months; developed a strategic mixed-methods plan combining usability testing and design critiques to pinpoint and address key friction areas<br>
+*	Identified 2 previously unrecognized user segments for IBM z/OSMF through in-depth interviews and usability sessions, expanding the product team's understanding of who their primary users actually were<br>
+*	Translated user segment findings into targeted design priorities, directly shaping UI and product feature development roadmap iterations for z/OSMF<br>
 
 *User Experience Researcher, Senior Intern (June 2023 – September 2023)*<br>
 
-* Analyzed over 20 customer feedback on a bi-weekly frequency to identify key highlights and challenges faced by customers during product beta testing program; analysis was used to influence product development and align with product strategy for the upcoming release<br>
-* Compiled and synthesized over 100 user comments to inform the development of 5 generative research workshop sessions with user base; workshops served as the foundational discussions that shed light on user grievances with most recent product release<br>
-*	Oversaw the conduction of over 15 internal interviews to assess the impact of 2 distinct visual frameworks on client adoption of the product platform, deriving 7 evidence-based insights and recommendations; findings served as the foundation for exploratory research with customers that would garner greater adoption of product<br>
+* Analyzed 20+ customer feedback responses bi-weekly during product beta testing; surfaced key highlights and challenges that aligned product development priorities for an upcoming release<br>
+* Distilled 100+ user comments into 5 generative research workshops; sessions surfaced foundational user grievances with product release and shaped product development priorities<br>
+*	Oversaw 15+ internal interviews examining impact of 2 distinct visual frameworks on client adoption; derived 7 evidence-based insights feeding directly into exploratory customer research aimed at increasing product adoption<br>
 
 *User Experience Researcher, Intern (May 2022 – December 2022)*<br>
 
-*	Conducted 2 heuristic evaluations of z/OS Management Services Catalog product by evaluating primary end-to-end user flows of 2 personas with latest code; Identified 20 improvement points within user flows<br>
-*	Collaborated with User Experience Designer to architect and design team’s 2 Airtable databases and sponsor user feedback forms; improvements allow for easy capture of user experience feedback and seamless integration with current client feedback process<br>
-*	Administered 6 usability tests on sponsor users with new product designs while working alongside the User Experience Designer to form a research plan; utilized an affinity map to synthesize results and then communicated to three-in-a-box team<br>
-*	Developed an on-platform CSAT survey to over 200 participants to measure customer satisfaction and usability of IBM’s Management Services Catalog platform<br>
+*	Ran 2 heuristic evaluations of IBM z/OSMF by assessing primary end-to-end user flows across 2 personas; flagged 20 improvement points within user flows<br>
+*	Partnered with UX Designer to architect 2 Airtable databases and sponsor user feedback forms; streamlined user experience feedback capture and integration with client feedback processes<br>
+*	Administered 6 usability tests on sponsor users alongside UX Designer; built affinity map from results and communicated findings to three-in-a-box team<br>
+*	Deployed an on-platform CSAT survey to 200+ z/OSMF users; generated actionable satisfaction and usability data fed directly into product improvement roadmap<br>
 
 **Intel Corporation**<br>
 
@@ -224,7 +244,7 @@ Leadership
 *2022 - Present*&emsp;	Design Team Lead - A Vision for Engineering Literacy & Access (AVELA)<br>
 *2022 – 2023*&emsp;	Professional Development Program Committee Member - National Society of Black Engineers (NSBE)<br>
 *2021 - 2022*&emsp;	Program Assistant - Men/Women of Color, Honor, and Ambition (M.O.C.H.A/W.O.C.H.A)<br>
-*2017 - Present*&emsp;		Co-Founder, Board of Director – Acquiring Knowledge for Transcendence, Inc. (Non-Profit)<br>
+*2017 - Present*&emsp;		Co-Founder – Acquiring Knowledge for Transcendence, Inc. (Non-Profit)<br>
 *2015 – 2016*&emsp;	Senator – National Society of Black Engineers (Virginia Tech)<br>
 
 Professional & Service Activities
@@ -307,6 +327,7 @@ Skills
   * Qualtrics 
   * Airtable
   * Advanced Microsoft Excel
+  * Overleaf
 * Programming Languages
   * R/RStudio 
   * LaTeX
